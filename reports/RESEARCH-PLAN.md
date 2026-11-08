@@ -37,7 +37,7 @@ coverage (0.475), and refusal (0/33), not by embedding throughput.
 | S3 | `-ctk q8_0 -ctv q8_0` vs f16 | memory, pp/tg, answer_ok on dev | memory saving with <5% quality loss | >5% answer_ok drop |
 | S4 | context budget: 5 vs 4 vs 3 chunks / 1,200 vs 700 chars per chunk | prompt tokens, answer_ok, citation | same answer_ok at lower tokens | quality drop >3 points |
 | S5 | speculative ngram (`--spec-type ngram-simple`) or a small draft model | tg tok/s, acceptance rate | >15% decode gain, identical outputs | no gain or instability |
-| S6 | prompt caching / slot reuse (`--cache-reuse`, warm requests) | p50/p95 end-to-end | lower p95 with same answers | cache contamination |
+| S6 | prompt/slot-cache reuse if supported by this build | p50/p95 end-to-end | lower p95 with same answers | cache contamination |
 
 Speculative decoding is lower priority than prefill reduction: at 1,732 prompt
 tokens and 77 output tokens, prefill is the larger share. Do S4/S6 before S5.
