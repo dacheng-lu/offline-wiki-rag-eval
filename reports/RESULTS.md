@@ -42,6 +42,13 @@ Retrieval-only: article hit **0.6943**, evidence hit **0.5130**, MRR **0.4312**.
   test set. It is not a Wikipedia-wide estimate and not a human-verified
   open-ended QA benchmark.
 
+## Measurement caveats
+
+These numbers are not a clean comparison baseline yet. The context builder
+supplied only ~3.17 chunks on average instead of the intended five, and the
+nomic index omitted its `search_document:` / `search_query:` prefixes. See
+`reviews/OPUS-REVIEW.md`; the repair plan is in `reports/RESEARCH-PLAN.md`.
+
 ## Artifacts
 
 - `metrics.json` — overall summary.

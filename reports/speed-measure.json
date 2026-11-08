@@ -1,0 +1,59 @@
+{
+  "lfm_generation": [
+    {
+      "wall_s": 2.341,
+      "completion_tokens": 79,
+      "predicted_per_second": 36.283,
+      "predicted_ms": 2149.793,
+      "prompt_tokens": 33
+    },
+    {
+      "wall_s": 2.363,
+      "completion_tokens": 79,
+      "predicted_per_second": 35.595,
+      "predicted_ms": 2191.308,
+      "prompt_tokens": 33
+    },
+    {
+      "wall_s": 2.326,
+      "completion_tokens": 79,
+      "predicted_per_second": 36.104,
+      "predicted_ms": 2160.454,
+      "prompt_tokens": 33
+    }
+  ],
+  "lfm_generation_mean_tok_s": 35.994,
+  "embedding": {
+    "single": {
+      "texts": 1,
+      "prompt_eval_count": 571,
+      "total_duration_s": 0.9986,
+      "wall_s": 0.9999,
+      "tokens_per_s": 571.8
+    },
+    "batch16": {
+      "texts": 16,
+      "prompt_eval_count": 9195,
+      "total_duration_s": 3.0673,
+      "wall_s": 3.105,
+      "tokens_per_s": 2997.7
+    }
+  },
+  "retrieval": {
+    "chunks": 3693,
+    "dim": 768,
+    "mean_ms": 3.218,
+    "p95_ms": 3.329
+  },
+  "rag_end_to_end": {
+    "case": "test-mathematics-01",
+    "query_embed_wall_s": 0.0322,
+    "context_chunks": 5,
+    "lfm_wall_s": 3.108,
+    "prompt_tokens": 1732,
+    "completion_tokens": 77,
+    "lfm_predicted_tok_s": 36.76,
+    "lfm_prompt_tok_s": 500.255,
+    "total_wall_s": 3.14
+  }
+}

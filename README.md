@@ -67,6 +67,23 @@ answerable `answer_ok` 0.231, retrieval evidence hit 0.513, and **0/33
 unanswerable cases correctly abstained**. The per-domain and base/retrieval
 breakdowns are in the report.
 
+- Speed measurements: [`reports/SPEED.md`](reports/SPEED.md)
+- Research and next experiments: [`reports/RESEARCH-PLAN.md`](reports/RESEARCH-PLAN.md)
+- Independent review and known measurement bugs: [`reviews/OPUS-REVIEW.md`](reviews/OPUS-REVIEW.md)
+
+## Known measurement issues
+
+Before using these numbers for a new comparison, read the Opus review. Two
+confirmed bugs are:
+
+- the RAG runner's 7,000-character context cap supplied only ~3.17 chunks on
+  average, not the intended five;
+- the nomic index was built without `search_document:` / `search_query:`
+  prefixes.
+
+The benchmark remains a useful negative/exploratory result, but the next run
+must repair these before claiming retrieval or prompt improvements.
+
 ## Limitations
 
 - This is an **extractive, automatically constructed** benchmark, not a
