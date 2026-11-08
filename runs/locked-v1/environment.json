@@ -1,0 +1,13 @@
+{
+  "index": "index/test_embedded.json",
+  "cases": "cases/test.jsonl",
+  "arms": [
+    "base",
+    "retrieval",
+    "embed"
+  ],
+  "top_k": 5,
+  "embedding_model": "nomic-embed-text",
+  "lfm_endpoint": "http://127.0.0.1:11437",
+  "created_at": "2026-11-08T15:22:41+0100"
+}

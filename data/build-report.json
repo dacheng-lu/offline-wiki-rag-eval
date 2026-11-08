@@ -1,0 +1,86 @@
+{
+  "articles_by_domain": {
+    "mathematics": 56,
+    "physics_astronomy": 56,
+    "chemistry_materials": 56,
+    "life_medicine": 56,
+    "geography_environment": 56,
+    "history": 56,
+    "social_science": 56,
+    "arts_humanities": 56
+  },
+  "selected": {
+    "mathematics": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 24,
+      "dev_cases": 10
+    },
+    "physics_astronomy": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 25,
+      "dev_cases": 10
+    },
+    "chemistry_materials": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 23,
+      "dev_cases": 9
+    },
+    "life_medicine": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 25,
+      "dev_cases": 10
+    },
+    "geography_environment": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 24,
+      "dev_cases": 10
+    },
+    "history": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 24,
+      "dev_cases": 10
+    },
+    "social_science": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 23,
+      "dev_cases": 10
+    },
+    "arts_humanities": {
+      "articles": 56,
+      "test_index": 40,
+      "dev_index": 10,
+      "test_cases": 25,
+      "dev_cases": 10
+    }
+  },
+  "cases": {
+    "test": 193,
+    "dev": 79
+  },
+  "chunks": {
+    "test": 3693,
+    "dev": 896
+  },
+  "answerable": {
+    "test": 160,
+    "dev": 64
+  },
+  "unanswerable": {
+    "test": 33,
+    "dev": 15
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "base": {
+    "n": 193,
+    "answer_ok": 0.0,
+    "answerable_answer_ok": 0.0,
+    "unanswerable_answer_ok": 0.0,
+    "answer_exact": 0.0063,
+    "token_f1": 0.0563,
+    "citation_ok": 0.0,
+    "abstention_ok": 0.0,
+    "mean_latency_s": 1.4702,
+    "p50_latency_s": 1.0172
+  },
+  "embed": {
+    "n": 193,
+    "answer_ok": 0.1917,
+    "answerable_answer_ok": 0.2313,
+    "unanswerable_answer_ok": 0.0,
+    "answer_exact": 0.2938,
+    "token_f1": 0.4271,
+    "citation_ok": 0.475,
+    "abstention_ok": 0.0,
+    "mean_latency_s": 4.7084,
+    "p50_latency_s": 4.4062
+  },
+  "retrieval": {
+    "n": 193,
+    "article_hit": 0.6943,
+    "evidence_hit": 0.513,
+    "mrr": 0.4312
+  }
+}

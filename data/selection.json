@@ -1,0 +1,4467 @@
+{
+  "book": "wikipedia_en_all_nopic_2026-06",
+  "generated_at": "2026-11-08T14:12:33+0100",
+  "domains": {
+    "mathematics": {
+      "queries": [
+        "mathematics",
+        "algebra",
+        "geometry",
+        "calculus",
+        "number theory",
+        "statistics"
+      ],
+      "candidates_total": 93,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Algebraic_number_theory",
+          "title": "Algebraic number theory",
+          "title_slug": "Algebraic_number_theory",
+          "domain": "mathematics",
+          "selection_key": "013dfeef3dce553169b9c3da1f326df950b9cfc75d96c47ffc73b6a09c463e15"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Symmetric_algebra",
+          "title": "Symmetric algebra",
+          "title_slug": "Symmetric_algebra",
+          "domain": "mathematics",
+          "selection_key": "02e2873205496de8782813bedf5546a298d8ca6fa2122fa27bee6f193ce72c99"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Edinburgh_Mathematical_Society",
+          "title": "Edinburgh Mathematical Society",
+          "title_slug": "Edinburgh_Mathematical_Society",
+          "domain": "mathematics",
+          "selection_key": "04bd48355d8df790101a7c0d0176b5642e93a237de93fb87a935ab9b7e377fe0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Statistics_education",
+          "title": "Statistics education",
+          "title_slug": "Statistics_education",
+          "domain": "mathematics",
+          "selection_key": "06cf6c8287dda0451f8d720f029ca411423f17911b22d9ccacebf82f6cac52a6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Jordan_algebra",
+          "title": "Jordan algebra",
+          "title_slug": "Jordan_algebra",
+          "domain": "mathematics",
+          "selection_key": "09d10ed796e438172a164ccae14daef0165c13a330a16590e58e5dd6b658299e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Projective_geometry",
+          "title": "Projective geometry",
+          "title_slug": "Projective_geometry",
+          "domain": "mathematics",
+          "selection_key": "0e4e9f5b28d8a0841fb5fd404d280f950e5f70b3a1cee60eaec57aa9adacda68"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Mathematically_Gifted_%26_Black",
+          "title": "Mathematically Gifted & Black",
+          "title_slug": "Mathematically_Gifted_&_Black",
+          "domain": "mathematics",
+          "selection_key": "0ec26f0d6861fc53c26e75fdd611298c1163857f61520ab69755f6b1f51e0d61"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Statistical_literacy",
+          "title": "Statistical literacy",
+          "title_slug": "Statistical_literacy",
+          "domain": "mathematics",
+          "selection_key": "151b429b753d2c2f1ec75872de7513196bc3c5dc55f494af3bb704decc9c482b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Calculus_(dental)",
+          "title": "Calculus (dental)",
+          "title_slug": "Calculus_(dental)",
+          "domain": "mathematics",
+          "selection_key": "161b88c7d85ce998b43c742e1512aceb6e3f8b3970a99daa35a63b7a85b50f85"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/AP_Calculus",
+          "title": "AP Calculus",
+          "title_slug": "AP_Calculus",
+          "domain": "mathematics",
+          "selection_key": "18341e14f24e76e821938c1af931a05b873aef2693f6c4794a4cd3003aded200"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Non-associative_algebra",
+          "title": "Non-associative algebra",
+          "title_slug": "Non-associative_algebra",
+          "domain": "mathematics",
+          "selection_key": "18794514aa6052ec8429faca03f65f44eaefe6d7742f744320665d1b8f2d781c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Founders_of_statistics",
+          "title": "Founders of statistics",
+          "title_slug": "Founders_of_statistics",
+          "domain": "mathematics",
+          "selection_key": "1aab18618d9923617a004e9c034371887aee2516a4354f45720d66c1390baf41"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Jordan_operator_algebra",
+          "title": "Jordan operator algebra",
+          "title_slug": "Jordan_operator_algebra",
+          "domain": "mathematics",
+          "selection_key": "228b845630aedd0db3e858453d67e140e9ec0b05a74eb0f519fb06e13575f0db"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_Mathematical_Union",
+          "title": "International Mathematical Union",
+          "title_slug": "International_Mathematical_Union",
+          "domain": "mathematics",
+          "selection_key": "2330b0d67763066d5cf3d9e0cb7771b63e832ab7caf001154d62b795767d169e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Algebraic_structure",
+          "title": "Algebraic structure",
+          "title_slug": "Algebraic_structure",
+          "domain": "mathematics",
+          "selection_key": "23b5bdbd4171997b70be4da1fb65634ed84ef7bfe0795c6118249d6ffcff326c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/*-algebra",
+          "title": "*-algebra",
+          "title_slug": "*-algebra",
+          "domain": "mathematics",
+          "selection_key": "2421cd764bfc2dab308a0dda7b43518db72c6ba04fe45350492244765683bfb1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Joint_Mathematical_Council",
+          "title": "Joint Mathematical Council",
+          "title_slug": "Joint_Mathematical_Council",
+          "domain": "mathematics",
+          "selection_key": "2522992d55e0d7cae1af094f1ce1abd67d7094e2ea7108bc171c7f9ce587b12e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_mathematics",
+          "title": "Computational mathematics",
+          "title_slug": "Computational_mathematics",
+          "domain": "mathematics",
+          "selection_key": "2b508d8990d7fcdc0dc1b29552046f54ad42c54448bd399da55a03ca2fd07b0d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Fundamental_theorem_of_calculus",
+          "title": "Fundamental theorem of calculus",
+          "title_slug": "Fundamental_theorem_of_calculus",
+          "domain": "mathematics",
+          "selection_key": "2b748ac29efb97b394a32262ab1dfaad8c1b6a6c97c9c78835e12fd9e49dac7b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Professor_Calculus",
+          "title": "Professor Calculus",
+          "title_slug": "Professor_Calculus",
+          "domain": "mathematics",
+          "selection_key": "31214be7ac8359aac3574f6f081aef3f7e827b5bfcc53eaa10a7f1e9fb88a0ab"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_Calculus_Affair",
+          "title": "The Calculus Affair",
+          "title_slug": "The_Calculus_Affair",
+          "domain": "mathematics",
+          "selection_key": "33a80058d957d8f2a692d52c5a65ea28bfb7920f6841e44aef704ac66275a31c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Tate's_thesis",
+          "title": "Tate's thesis",
+          "title_slug": "Tate's_thesis",
+          "domain": "mathematics",
+          "selection_key": "36e5e46a19239134727c1f79d7db7d999b5658c32489f4d873998b5ead786a71"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Geometry",
+          "title": "Geometry",
+          "title_slug": "Geometry",
+          "domain": "mathematics",
+          "selection_key": "3ae1b487c8c530d64c92e7ce708ee61cb946c5f5ee2395172f1f0660d85369e0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_geometry",
+          "title": "Computational geometry",
+          "title_slug": "Computational_geometry",
+          "domain": "mathematics",
+          "selection_key": "3d8585b0a3e491c87a229a5e0d62cba9844dc1728d0451941adbab47bb7570c1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Algebra",
+          "title": "Algebra",
+          "title_slug": "Algebra",
+          "domain": "mathematics",
+          "selection_key": "3fa6a6f2c682c5faba830089e20aa312b62865b1cc78a98e20ed52ed53a6321c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Hyperbolic_geometry",
+          "title": "Hyperbolic geometry",
+          "title_slug": "Hyperbolic_geometry",
+          "domain": "mathematics",
+          "selection_key": "425d1cffa92425d72d6e8e8cef8176d7826d2ba9524140e7c48bcb5432a203ec"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Network_calculus",
+          "title": "Network calculus",
+          "title_slug": "Network_calculus",
+          "domain": "mathematics",
+          "selection_key": "47531e77b4ff1d36f6800a1693aa88a5b9005507276bf0d41c4c89043f882e87"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Statistical_Institute_(Bulgaria)",
+          "title": "National Statistical Institute (Bulgaria)",
+          "title_slug": "National_Statistical_Institute_(Bulgaria)",
+          "domain": "mathematics",
+          "selection_key": "4aad3d6f87f4ff9489ec247b3f436dc41d7a74bdaf960534970a7ae8770d0bb2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/History_of_calculus",
+          "title": "History of calculus",
+          "title_slug": "History_of_calculus",
+          "domain": "mathematics",
+          "selection_key": "4fd49fa9cb6182c054982c4a5b8459d93f9e72bd8b390ed2c635e9834e542dad"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Absolute_geometry",
+          "title": "Absolute geometry",
+          "title_slug": "Absolute_geometry",
+          "domain": "mathematics",
+          "selection_key": "532369af1c1fd9f15c41f07bed441acc7534eda74edd8dbd5acc79ecbdbfd8a3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Vector_calculus",
+          "title": "Vector calculus",
+          "title_slug": "Vector_calculus",
+          "domain": "mathematics",
+          "selection_key": "53cd7e9952066131539651757efcdb941f65647f5650bc4b51c39be47c173108"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Join-calculus",
+          "title": "Join-calculus",
+          "title_slug": "Join-calculus",
+          "domain": "mathematics",
+          "selection_key": "56cab26126d71705b4ceaca848bda34ce0ecda33521a41579d18124dd4a2a06b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Finite_geometry",
+          "title": "Finite geometry",
+          "title_slug": "Finite_geometry",
+          "domain": "mathematics",
+          "selection_key": "5708df7d40635ff274ccfd509f7fc2908b26f09fdcc544660d4c5f75478457c3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Convex_geometry",
+          "title": "Convex geometry",
+          "title_slug": "Convex_geometry",
+          "domain": "mathematics",
+          "selection_key": "59daa79bae079febb4ce76650df3a67f8b9aaed1600f42e2cd5f2d99423cc5a2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Synthetic_geometry",
+          "title": "Synthetic geometry",
+          "title_slug": "Synthetic_geometry",
+          "domain": "mathematics",
+          "selection_key": "60bdfae76cc4ea35c709873328526c25d9c5301ac1eb9de2e98da7eb2531764e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Non-Euclidean_geometry",
+          "title": "Non-Euclidean geometry",
+          "title_slug": "Non-Euclidean_geometry",
+          "domain": "mathematics",
+          "selection_key": "64b8ac665f824425b0e2ab70e4816636a8bf4d2d5ec5e849bdf5db9111de7420"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Glossary_of_number_theory",
+          "title": "Glossary of number theory",
+          "title_slug": "Glossary_of_number_theory",
+          "domain": "mathematics",
+          "selection_key": "69fc66c46e731a6d3f333237280f4148299b5dd0e68633b7a716ed98f3f974a1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Federal_statistical_system",
+          "title": "Federal statistical system",
+          "title_slug": "Federal_statistical_system",
+          "domain": "mathematics",
+          "selection_key": "6ad4824e8a2a6d7fb1d9bdfb2c51386e2a76e0078af144b79477ae1914d23885"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_number_theory",
+          "title": "Computational number theory",
+          "title_slug": "Computational_number_theory",
+          "domain": "mathematics",
+          "selection_key": "6e76e992991fe3e6a866cae5dfd45d2f31585e549c7f087188e7e436161b4c25"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Forum_of_Mathematics",
+          "title": "Forum of Mathematics",
+          "title_slug": "Forum_of_Mathematics",
+          "domain": "mathematics",
+          "selection_key": "6e9c4a6363529c206549b03389170c60da35e72781e15d0703d1b034166da114"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Glossary_of_areas_of_mathematics",
+          "title": "Glossary of areas of mathematics",
+          "title_slug": "Glossary_of_areas_of_mathematics",
+          "domain": "mathematics",
+          "selection_key": "7264ecaaec4c42db6ee39f9b6ee626a8ddb6a3347cb7347329efca1227e9bf57"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Lambda_calculus",
+          "title": "Lambda calculus",
+          "title_slug": "Lambda_calculus",
+          "domain": "mathematics",
+          "selection_key": "74b837385176f1a4e425ed3166334689b68bd936a719548a8fb9af5e7b9e81d9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Differential_geometry",
+          "title": "Differential geometry",
+          "title_slug": "Differential_geometry",
+          "domain": "mathematics",
+          "selection_key": "77d4c42bca603862f56a4cb8f580b198c01e69018553fc755c41aa94c4cfc6bf"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Decidability_of_first-order_theories_of_the_real_numbers",
+          "title": "Decidability of first-order theories of the real numbers",
+          "title_slug": "Decidability_of_first-order_theories_of_the_real_numbers",
+          "domain": "mathematics",
+          "selection_key": "78f8e334d208e9a23c905628b685cb9c7f38c2888fe559569a1cd15f87d94066"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Transcendental_number_theory",
+          "title": "Transcendental number theory",
+          "title_slug": "Transcendental_number_theory",
+          "domain": "mathematics",
+          "selection_key": "811fbcda1bf109bcee86b147754ec7fca8162637be7bd17a0082f444bc188582"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Secondary_calculus_and_cohomological_physics",
+          "title": "Secondary calculus and cohomological physics",
+          "title_slug": "Secondary_calculus_and_cohomological_physics",
+          "domain": "mathematics",
+          "selection_key": "8189fdf4858147ffb9094ffa58ef9475fe2d2d7cdaaf0da66bafbfe2be4a0762"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Spherical_geometry",
+          "title": "Spherical geometry",
+          "title_slug": "Spherical_geometry",
+          "domain": "mathematics",
+          "selection_key": "83db8eb6aea0ef26bcc1980eb551d13ea4b1edbafeb5cd5b4ae3bba43f0da37e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Arithmetic_topology",
+          "title": "Arithmetic topology",
+          "title_slug": "Arithmetic_topology",
+          "domain": "mathematics",
+          "selection_key": "88ad8a1ba56527296ac4be0346b4c65e023badf44863d46330d63c3ad3f9e90a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Commutative_algebra",
+          "title": "Commutative algebra",
+          "title_slug": "Commutative_algebra",
+          "domain": "mathematics",
+          "selection_key": "905534e702c5061a36ab14fd239b3a6891a4c351311de797b134659b4ce7f569"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/%CE%A0-calculus",
+          "title": "Π-calculus",
+          "title_slug": "Π-calculus",
+          "domain": "mathematics",
+          "selection_key": "90de077fa6c93a49c9c5e9e240979374c7d3a567e5ebab469ae58c0841b074c9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Interior_algebra",
+          "title": "Interior algebra",
+          "title_slug": "Interior_algebra",
+          "domain": "mathematics",
+          "selection_key": "920374873dc9c9bb99787ad2c3cfcb52a2116d830577cf2c77f59b9514bdb9da"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Basic_Number_Theory",
+          "title": "Basic Number Theory",
+          "title_slug": "Basic_Number_Theory",
+          "domain": "mathematics",
+          "selection_key": "92c6944045afab5cc4ef16048d0fa0884babe18714bbdb868ebcf8f8041900f5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/MV-algebra",
+          "title": "MV-algebra",
+          "title_slug": "MV-algebra",
+          "domain": "mathematics",
+          "selection_key": "93a4501f669344685554021260226438bf0f941453dbc6478c21f98f2ab7238f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Operator_algebra",
+          "title": "Operator algebra",
+          "title_slug": "Operator_algebra",
+          "domain": "mathematics",
+          "selection_key": "9607d865478a73b6c62b91a7f8b7dcb6622658673280f1d8a5be49cd591a9a35"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Institute_of_Mathematics",
+          "title": "Institute of Mathematics",
+          "title_slug": "Institute_of_Mathematics",
+          "domain": "mathematics",
+          "selection_key": "9668d42d02daf2a1e62dbddf7ef3b0e717fa36a12e50ce6f356238bca8e1ee2a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polyadic_algebra",
+          "title": "Polyadic algebra",
+          "title_slug": "Polyadic_algebra",
+          "domain": "mathematics",
+          "selection_key": "9b0e7c24a8a4d749b61a9e4f016dc15abc29f6fd0b3019ac5b99f214b7b70b96"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "mathematics",
+          "start": 0,
+          "count": 15
+        },
+        {
+          "query": "mathematics",
+          "start": 20,
+          "count": 15
+        },
+        {
+          "query": "mathematics",
+          "start": 40,
+          "count": 15
+        },
+        {
+          "query": "mathematics",
+          "start": 60,
+          "count": 15
+        },
+        {
+          "query": "mathematics",
+          "start": 80,
+          "count": 15
+        },
+        {
+          "query": "algebra",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "algebra",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "algebra",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "algebra",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "algebra",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "geometry",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "geometry",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "geometry",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "geometry",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "geometry",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "calculus",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "calculus",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "calculus",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "calculus",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "calculus",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "number theory",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "number theory",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "number theory",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "number theory",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "number theory",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "statistics",
+          "start": 0,
+          "count": 8
+        },
+        {
+          "query": "statistics",
+          "start": 20,
+          "count": 8
+        },
+        {
+          "query": "statistics",
+          "start": 40,
+          "count": 8
+        },
+        {
+          "query": "statistics",
+          "start": 60,
+          "count": 8
+        },
+        {
+          "query": "statistics",
+          "start": 80,
+          "count": 8
+        }
+      ]
+    },
+    "physics_astronomy": {
+      "queries": [
+        "physics",
+        "quantum mechanics",
+        "astronomy",
+        "planet",
+        "star",
+        "thermodynamics"
+      ],
+      "candidates_total": 98,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_modelling",
+          "title": "Thermodynamic modelling",
+          "title_slug": "Thermodynamic_modelling",
+          "domain": "physics_astronomy",
+          "selection_key": "01a43629cb547c0d846a781fffde419f8be605d33a9dccc6947249aeeca7ff98"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Red_Planet_Hotels",
+          "title": "Red Planet Hotels",
+          "title_slug": "Red_Planet_Hotels",
+          "domain": "physics_astronomy",
+          "selection_key": "01d813af7ad2c910bc0eade9204e364ccbaa79c119b61eb3c3459ee3372d2312"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Measurement_in_quantum_mechanics",
+          "title": "Measurement in quantum mechanics",
+          "title_slug": "Measurement_in_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "02e52d45888373e8f10b62d61954ba0e1a6e9ae12bcc507a7c73d6de50570341"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_Year_of_Astronomy",
+          "title": "International Year of Astronomy",
+          "title_slug": "International_Year_of_Astronomy",
+          "domain": "physics_astronomy",
+          "selection_key": "030c92af503f0658df6617bd80cacffca7a605169d5a42e74099712d680aa850"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_potential",
+          "title": "Thermodynamic potential",
+          "title_slug": "Thermodynamic_potential",
+          "domain": "physics_astronomy",
+          "selection_key": "0347c24940588c18b525b89b883603522d1bf5ab9becedb07c3d94a62bb0d40b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Planet_of_the_Apes_(comics)",
+          "title": "Planet of the Apes (comics)",
+          "title_slug": "Planet_of_the_Apes_(comics)",
+          "domain": "physics_astronomy",
+          "selection_key": "054a45f17f6d80c9ea98adff099026798a375f6c432ddf239f65bdeef58fe44c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_state",
+          "title": "Thermodynamic state",
+          "title_slug": "Thermodynamic_state",
+          "domain": "physics_astronomy",
+          "selection_key": "0cad5943b6ca2f27cef656cde0d3888b4a3157891c504db723e9ba0fadd93eb3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Quantum_statistical_mechanics",
+          "title": "Quantum statistical mechanics",
+          "title_slug": "Quantum_statistical_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "0d19515770d5fbf629f19ec4340759bbdcbddd40d2e7f5b7e4355656a557679c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3AAstronomy/Picture",
+          "title": "Picture",
+          "title_slug": "Picture",
+          "domain": "physics_astronomy",
+          "selection_key": "0e6cf7b1ebb463eb3343489bc0698d129b3e83a022f66a0307114a9823e2e2fe"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3AAstronomy/Picture/October_2005",
+          "title": "October 2005",
+          "title_slug": "October_2005",
+          "domain": "physics_astronomy",
+          "selection_key": "0f1c68bd157fd11cf95504738ed8a431e8c61d9a6d477c2f1d019bd56294be0b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_equilibrium",
+          "title": "Thermodynamic equilibrium",
+          "title_slug": "Thermodynamic_equilibrium",
+          "domain": "physics_astronomy",
+          "selection_key": "11207cdc3f8acbdb28f14523777076c22a27effb6a60d7ee9482e74c61ad3988"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Non-equilibrium_thermodynamics",
+          "title": "Non-equilibrium thermodynamics",
+          "title_slug": "Non-equilibrium_thermodynamics",
+          "domain": "physics_astronomy",
+          "selection_key": "119130d6c000d2a6b26876971bf03f126054ca4eb349f966ff8052ddefeafbe9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Indian_astronomy",
+          "title": "Indian astronomy",
+          "title_slug": "Indian_astronomy",
+          "domain": "physics_astronomy",
+          "selection_key": "12710e8a28640219c3577f33b1b46eca7083e2a7aa228349d2c5cedfc8ca7229"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Introduction_to_quantum_mechanics",
+          "title": "Introduction to quantum mechanics",
+          "title_slug": "Introduction_to_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "149ac146fa9178d8cfadf073fb5cdd6aedbbc1479a900475c56e04f407208062"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Physical_literacy",
+          "title": "Physical literacy",
+          "title_slug": "Physical_literacy",
+          "domain": "physics_astronomy",
+          "selection_key": "1601416f0116f5c0d8173a9793d4d44fac89f7e43b2901f3f8c13e73a54cff4d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/SS_Empire_Bardolph",
+          "title": "SS Empire Bardolph",
+          "title_slug": "SS_Empire_Bardolph",
+          "domain": "physics_astronomy",
+          "selection_key": "16f8096550505dbb79a9be8bc7bb347fe37e4c3d69bcb1b76b9169bf35b4face"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/History_of_thermodynamics",
+          "title": "History of thermodynamics",
+          "title_slug": "History_of_thermodynamics",
+          "domain": "physics_astronomy",
+          "selection_key": "18d0961e6a6459dc1666ad960f217182afdebf5c9ec0c34c3ce6fbd5a0c13a38"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_operation",
+          "title": "Thermodynamic operation",
+          "title_slug": "Thermodynamic_operation",
+          "domain": "physics_astronomy",
+          "selection_key": "1ce37d116f9a5da8f927f34811c36e04f7b88c9f80dc0ced22fc8930a586c5a3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Relational_quantum_mechanics",
+          "title": "Relational quantum mechanics",
+          "title_slug": "Relational_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "1d5ea08abd2d8ccd4d18e376db4d61a5f41fc34a0ff1a2248fb487a796f16b4d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Kenley_Players",
+          "title": "Kenley Players",
+          "title_slug": "Kenley_Players",
+          "domain": "physics_astronomy",
+          "selection_key": "29f0701534be9950e3602b35a09f5e92f071805e6a4413c54852fd9cbe2eab44"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Relativistic_quantum_mechanics",
+          "title": "Relativistic quantum mechanics",
+          "title_slug": "Relativistic_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "2c29823f3390c283d4b54cb076de14920f0f22e0fcf963450d2aca09a146adba"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Physical_activity_epidemiology",
+          "title": "Physical activity epidemiology",
+          "title_slug": "Physical_activity_epidemiology",
+          "domain": "physics_astronomy",
+          "selection_key": "32b71e61cae5a6f088127623e84810e62727e70f28c005a1b9c2470c45ba28a9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Minority_interpretations_of_quantum_mechanics",
+          "title": "Minority interpretations of quantum mechanics",
+          "title_slug": "Minority_interpretations_of_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "35798b60bbad8a51ec8af7fa4e51ad51775d38c0236908a637260c0464b18e52"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Planet_Earth_(franchise)",
+          "title": "Planet Earth (franchise)",
+          "title_slug": "Planet_Earth_(franchise)",
+          "domain": "physics_astronomy",
+          "selection_key": "370adffeaf1f3916a2deceec4ec815718e85b75446fd768a46c03f3adb4193ec"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3AAstronomy/Picture/September_2005",
+          "title": "September 2005",
+          "title_slug": "September_2005",
+          "domain": "physics_astronomy",
+          "selection_key": "376ef05c933da3ee99ffac82fc9a6ddf2bcdba52a49a9132381bd3230a4fedf9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Astronomy_(magazine)",
+          "title": "Astronomy (magazine)",
+          "title_slug": "Astronomy_(magazine)",
+          "domain": "physics_astronomy",
+          "selection_key": "37bce57778a6b13f68f0d39fc3c4175e7d911e7d385b4dd33ec763340b60027c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Astronomy_Ireland",
+          "title": "Astronomy Ireland",
+          "title_slug": "Astronomy_Ireland",
+          "domain": "physics_astronomy",
+          "selection_key": "37d167eb6565f42fc066cab558187e79370345139f2dfd413d1069ce4e7ce942"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_Melody_Top",
+          "title": "The Melody Top",
+          "title_slug": "The_Melody_Top",
+          "domain": "physics_astronomy",
+          "selection_key": "3caefa8b498cbb9c5e6b4caea973d5b6fbb8757c142eb953a53422241303fe7f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Planet_(franchise)",
+          "title": "Planet (franchise)",
+          "title_slug": "Planet_(franchise)",
+          "domain": "physics_astronomy",
+          "selection_key": "3e60c9450c2c233a2eef16b79fcd42637fd41cc994fb005509dd282adaa27be4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Equilibrium_thermodynamics",
+          "title": "Equilibrium thermodynamics",
+          "title_slug": "Equilibrium_thermodynamics",
+          "domain": "physics_astronomy",
+          "selection_key": "3f0ab066227ab17486156beeaddf3de1957ea4127445c633b5f548c2ac1f6ed8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamics_and_an_Introduction_to_Thermostatistics",
+          "title": "Thermodynamics and an Introduction to Thermostatistics",
+          "title_slug": "Thermodynamics_and_an_Introduction_to_Thermostatistics",
+          "domain": "physics_astronomy",
+          "selection_key": "46741a78d741d927de69a57e0d9a713a030365c1c9fee04ea1555c358af241b2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/SS_Empire_Star",
+          "title": "SS Empire Star",
+          "title_slug": "SS_Empire_Star",
+          "domain": "physics_astronomy",
+          "selection_key": "46fad9790dc8d7adc7f0cf0d9938c36dba77ab0b20b64efb7ca4af6ee4dea9ae"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/SS_Doric_Star",
+          "title": "SS Doric Star",
+          "title_slug": "SS_Doric_Star",
+          "domain": "physics_astronomy",
+          "selection_key": "474ad79cbd65c06648d11878abce73292e2f10fdb3ce24123cef7b9741bd61d5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_system",
+          "title": "Thermodynamic system",
+          "title_slug": "Thermodynamic_system",
+          "domain": "physics_astronomy",
+          "selection_key": "4cd61f961957d380526c9f134c5d3e3785bb940199be063c241a7a4eda62f8c7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_physics",
+          "title": "Computational physics",
+          "title_slug": "Computational_physics",
+          "domain": "physics_astronomy",
+          "selection_key": "4e50cd61a929afbeae984422ae12a415c133ac491400c1e9e0c951fe030fb73f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thermodynamic_equations",
+          "title": "Thermodynamic equations",
+          "title_slug": "Thermodynamic_equations",
+          "domain": "physics_astronomy",
+          "selection_key": "4ef52b5e1a9985ee96e367c27eb2edad690d4f38a6280fd3478f9dd022f46c68"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Glossary_of_elementary_quantum_mechanics",
+          "title": "Glossary of elementary quantum mechanics",
+          "title_slug": "Glossary_of_elementary_quantum_mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "4f67ff40f5c09e7db69a70fe2ab922af7913af18cfd0a41d2e930f5994069509"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Institute_of_Physics_Awards",
+          "title": "Institute of Physics Awards",
+          "title_slug": "Institute_of_Physics_Awards",
+          "domain": "physics_astronomy",
+          "selection_key": "557472c976e2f678e99a36a89104b03e8098132c345578914f642149096802a5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Work_(thermodynamics)",
+          "title": "Work (thermodynamics)",
+          "title_slug": "Work_(thermodynamics)",
+          "domain": "physics_astronomy",
+          "selection_key": "56cf2f878347de7b9a59486d1b1965e7e8ef9789e217d5fea72d87dbe75d85db"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/AP_Physics",
+          "title": "AP Physics",
+          "title_slug": "AP_Physics",
+          "domain": "physics_astronomy",
+          "selection_key": "5725048d52d5a0e60e2d5304b56647cfeed3e8b5706901663631c258038ba5f8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Astronomy_Picture_of_the_Day",
+          "title": "Astronomy Picture of the Day",
+          "title_slug": "Astronomy_Picture_of_the_Day",
+          "domain": "physics_astronomy",
+          "selection_key": "587f4da386cbff39987be613e9724d150147879253b95b3e30ca00a021737d9c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Blue_Star_Line",
+          "title": "Blue Star Line",
+          "title_slug": "Blue_Star_Line",
+          "domain": "physics_astronomy",
+          "selection_key": "58e7a9ccb11fe2e3b76c95c514a2caecb7b25fa9a6bf755f9f0f690cef34ca9c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/MV_California_Star_(1945)",
+          "title": "MV California Star (1945)",
+          "title_slug": "MV_California_Star_(1945)",
+          "domain": "physics_astronomy",
+          "selection_key": "5b2a30916fcbfc639c95e40c900a10f9b6816b3d943d3642c05dc68a218638a2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Astronomy_education",
+          "title": "Astronomy education",
+          "title_slug": "Astronomy_education",
+          "domain": "physics_astronomy",
+          "selection_key": "5c41caf7c5d79a8037b4485fef9ef75dc59e72973b060c10238e9785553d2471"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Planet-hosting_star",
+          "title": "Planet-hosting star",
+          "title_slug": "Planet-hosting_star",
+          "domain": "physics_astronomy",
+          "selection_key": "618a5e566221a1e98e19196b8e0ef61167bd1a8a9e43fd02bf7f1cd9e2d7fb35"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/MV_Brisbane_Star",
+          "title": "MV Brisbane Star",
+          "title_slug": "MV_Brisbane_Star",
+          "domain": "physics_astronomy",
+          "selection_key": "63751671b97002e81fe52e9c09e4eff69fbe1785e2430fe9285bc85f3cd14234"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Physicalism",
+          "title": "Physicalism",
+          "title_slug": "Physicalism",
+          "domain": "physics_astronomy",
+          "selection_key": "65628421fdf6b93deae50e38f311aeded517cf7985dc2dde17a0819518fceda5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Quantum_mechanics_of_time_travel",
+          "title": "Quantum mechanics of time travel",
+          "title_slug": "Quantum_mechanics_of_time_travel",
+          "domain": "physics_astronomy",
+          "selection_key": "667557e68ef60942e8e57d4c3acb2ece42d0c1fcd22759c59977f06cdae399b7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/American_Physical_Society",
+          "title": "American Physical Society",
+          "title_slug": "American_Physical_Society",
+          "domain": "physics_astronomy",
+          "selection_key": "66b31e370644cd9c8bdcca8784ec849dd4fafe5f7c68a27569f957751e4bda2b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bibliography_of_encyclopedias%3A_astronomy_and_astronomers",
+          "title": "Bibliography of encyclopedias: astronomy and astronomers",
+          "title_slug": "Bibliography_of_encyclopedias:_astronomy_and_astronomers",
+          "domain": "physics_astronomy",
+          "selection_key": "6e6c1b1c4f262bb2cc39e877ee0ef34d0314e64ffd6ddd61c0875aa1d27d26fc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Radio_astronomy",
+          "title": "Radio astronomy",
+          "title_slug": "Radio_astronomy",
+          "domain": "physics_astronomy",
+          "selection_key": "735e1f4ebc26bf96da98a7a252848a0815927bee865078f1f4869da99c7b68db"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Physical_Review",
+          "title": "Physical Review",
+          "title_slug": "Physical_Review",
+          "domain": "physics_astronomy",
+          "selection_key": "743385eec72e1386837c505dc3d2cbc0bb45baae5523009a12d0b28d121dddc6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Physics",
+          "title": "Physics",
+          "title_slug": "Physics",
+          "domain": "physics_astronomy",
+          "selection_key": "813086e45142c7b12d53a87b72b40b6b1a28fa17b50cd7423df52faf9a5f17d7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Modern_Quantum_Mechanics",
+          "title": "Modern Quantum Mechanics",
+          "title_slug": "Modern_Quantum_Mechanics",
+          "domain": "physics_astronomy",
+          "selection_key": "8280f83165a7750696c36832209333455cf33c8101dc638c43e537f123f28b3e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/SS_Almeda_Star",
+          "title": "SS Almeda Star",
+          "title_slug": "SS_Almeda_Star",
+          "domain": "physics_astronomy",
+          "selection_key": "82a31ebaf9a5432e9a9b583cec9324377c40939fc2780103361c296458cfd7cf"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Carolyn_S._Shoemaker",
+          "title": "Carolyn S. Shoemaker",
+          "title_slug": "Carolyn_S._Shoemaker",
+          "domain": "physics_astronomy",
+          "selection_key": "84425bd6b982910b6194b4aa593e9a21ac07faa334be471db009be0248b30691"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "physics",
+          "start": 0,
+          "count": 14
+        },
+        {
+          "query": "physics",
+          "start": 20,
+          "count": 14
+        },
+        {
+          "query": "physics",
+          "start": 40,
+          "count": 14
+        },
+        {
+          "query": "physics",
+          "start": 60,
+          "count": 14
+        },
+        {
+          "query": "physics",
+          "start": 80,
+          "count": 14
+        },
+        {
+          "query": "quantum mechanics",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "quantum mechanics",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "quantum mechanics",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "quantum mechanics",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "quantum mechanics",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "astronomy",
+          "start": 0,
+          "count": 17
+        },
+        {
+          "query": "astronomy",
+          "start": 20,
+          "count": 17
+        },
+        {
+          "query": "astronomy",
+          "start": 40,
+          "count": 17
+        },
+        {
+          "query": "astronomy",
+          "start": 60,
+          "count": 17
+        },
+        {
+          "query": "astronomy",
+          "start": 80,
+          "count": 17
+        },
+        {
+          "query": "planet",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "planet",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "planet",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "planet",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "planet",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "star",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "star",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "star",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "star",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "star",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "thermodynamics",
+          "start": 0,
+          "count": 20
+        },
+        {
+          "query": "thermodynamics",
+          "start": 20,
+          "count": 20
+        },
+        {
+          "query": "thermodynamics",
+          "start": 40,
+          "count": 20
+        },
+        {
+          "query": "thermodynamics",
+          "start": 60,
+          "count": 20
+        },
+        {
+          "query": "thermodynamics",
+          "start": 80,
+          "count": 20
+        }
+      ]
+    },
+    "chemistry_materials": {
+      "queries": [
+        "chemistry",
+        "chemical element",
+        "materials science",
+        "molecule",
+        "polymer",
+        "metallurgy"
+      ],
+      "candidates_total": 106,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Molecules_in_stars",
+          "title": "Molecules in stars",
+          "title_slug": "Molecules_in_stars",
+          "domain": "chemistry_materials",
+          "selection_key": "02d7e881faa7a20058f73c04abca296cd97c02b48b7336b64bae0848289c844d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Structural_chemistry",
+          "title": "Structural chemistry",
+          "title_slug": "Structural_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "04094171ad43a03c277b9d7943cc3217f0a95db5ec302d40e22f84c6704369bc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer_soil_stabilization",
+          "title": "Polymer soil stabilization",
+          "title_slug": "Polymer_soil_stabilization",
+          "domain": "chemistry_materials",
+          "selection_key": "0533a24701b4ad7819e475ac6a9f8d8db21e1add46ac9b51a7d1df9a1d4e6efe"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Media_Molecule",
+          "title": "Media Molecule",
+          "title_slug": "Media_Molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "06334e1cd7c0caa2dd752e81bc9f3bb670d3859417ab3d067e84a55731272630"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer_electrolytes",
+          "title": "Polymer electrolytes",
+          "title_slug": "Polymer_electrolytes",
+          "domain": "chemistry_materials",
+          "selection_key": "08b83ca0cca3fa6d736a8f8b068f5e4e55dbb5247b93d666899cb51639d938d1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chemistry_education",
+          "title": "Chemistry education",
+          "title_slug": "Chemistry_education",
+          "domain": "chemistry_materials",
+          "selection_key": "18a5c97c1b5eef8323d86edb0dc08fcf57000b7cde128cc33175b0f8bf631473"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chemical_polarity",
+          "title": "Chemical polarity",
+          "title_slug": "Chemical_polarity",
+          "domain": "chemistry_materials",
+          "selection_key": "18a5ea0f4a7157a319c2eed2cb4100fe0881285e8742b37c2101e6ef7d35331c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Soft_chemistry",
+          "title": "Soft chemistry",
+          "title_slug": "Soft_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "1cdd32e80580fc54a68a906258eba54017db9be175bf36fdc21b1d79d6c8d79b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Molecule",
+          "title": "Molecule",
+          "title_slug": "Molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "1db4a7fd87704098d1a3d345d0951f9834c25901f13fe3e4b7ac31fa2ba2e84b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Roman_metallurgy",
+          "title": "Roman metallurgy",
+          "title_slug": "Roman_metallurgy",
+          "domain": "chemistry_materials",
+          "selection_key": "1e923049bc8a5418e01fe4729f5803d1d8bd3d55bcc213498987818ab2aec456"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Star-shaped_polymer",
+          "title": "Star-shaped polymer",
+          "title_slug": "Star-shaped_polymer",
+          "domain": "chemistry_materials",
+          "selection_key": "1ec9ac1950c3b3f01e0599fdec76b2d009a2b355e65e2ce208e968017be2e472"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Metallurgy_in_pre-Columbian_America",
+          "title": "Metallurgy in pre-Columbian America",
+          "title_slug": "Metallurgy_in_pre-Columbian_America",
+          "domain": "chemistry_materials",
+          "selection_key": "216b2fcecc212a23d319d53f2f118f3cc1369d97c826a026badda3f69b51bc40"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chemical_state",
+          "title": "Chemical state",
+          "title_slug": "Chemical_state",
+          "domain": "chemistry_materials",
+          "selection_key": "22dc38b05f83e9850c4d4fa688b67a5f02292d24ecbe8457b7b1b221fc877537"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Copper_metallurgy_in_Africa",
+          "title": "Copper metallurgy in Africa",
+          "title_slug": "Copper_metallurgy_in_Africa",
+          "domain": "chemistry_materials",
+          "selection_key": "2592967b59f3f9367b01509a419a72b7ecdb612cb28a321fcac03756940234a1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ferrous_metallurgy",
+          "title": "Ferrous metallurgy",
+          "title_slug": "Ferrous_metallurgy",
+          "domain": "chemistry_materials",
+          "selection_key": "264d51e2611c32a923c062f60886ddabdb66024dab653e3c61a5840edde03a2b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Hypervalent_molecule",
+          "title": "Hypervalent molecule",
+          "title_slug": "Hypervalent_molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "2ae0d827fb5eceaf48a6a9f1393e600b251790902434e1f888a17ef5aab3bbd4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Theoretical_chemistry",
+          "title": "Theoretical chemistry",
+          "title_slug": "Theoretical_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "2e83a9be2f8b5629ac05d90511c2c1b81e14bdb8b83732198a43410ee167fb45"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Mining_and_metallurgy_in_medieval_Europe",
+          "title": "Mining and metallurgy in medieval Europe",
+          "title_slug": "Mining_and_metallurgy_in_medieval_Europe",
+          "domain": "chemistry_materials",
+          "selection_key": "2f09c64fbd6f038221d4b77b0a4dc336356c5607b9431192a0b6bf75702dc70b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Abundance_of_the_chemical_elements",
+          "title": "Abundance of the chemical elements",
+          "title_slug": "Abundance_of_the_chemical_elements",
+          "domain": "chemistry_materials",
+          "selection_key": "33cd94782c002529c3630621751eaf6d7e810e3a22994e86595b755c11e80f21"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Single-molecule_electric_motor",
+          "title": "Single-molecule electric motor",
+          "title_slug": "Single-molecule_electric_motor",
+          "domain": "chemistry_materials",
+          "selection_key": "3435db3dbbd64914264979ee85d0ffc55b2448baf4eb06316d1d1d1a9e81eee7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_central_science",
+          "title": "The central science",
+          "title_slug": "The_central_science",
+          "domain": "chemistry_materials",
+          "selection_key": "394cbbfbcfeea312c5c82bdcb25e14f49561ebbc049d4e50fc29a7eae527cddd"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Medicinal_chemistry",
+          "title": "Medicinal chemistry",
+          "title_slug": "Medicinal_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "3d6402425cbfbde384c4e5ea16a07306b76a84b35026b39efc56a4eeedf1df6c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Materials_Research_Science_and_Engineering_Centers",
+          "title": "Materials Research Science and Engineering Centers",
+          "title_slug": "Materials_Research_Science_and_Engineering_Centers",
+          "domain": "chemistry_materials",
+          "selection_key": "42a7ace7744cd729e43506fce9daf836b5d636afd76247e59d608061ba96c1ee"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Crystallization_of_polymers",
+          "title": "Crystallization of polymers",
+          "title_slug": "Crystallization_of_polymers",
+          "domain": "chemistry_materials",
+          "selection_key": "451ad051004323ee6faf1ada2613a8be1eed400405cb37d3db447f6373d56bf3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Materials_Science%3A_Materials_in_Electronics",
+          "title": "Journal of Materials Science: Materials in Electronics",
+          "title_slug": "Journal_of_Materials_Science:_Materials_in_Electronics",
+          "domain": "chemistry_materials",
+          "selection_key": "457765a26c7573007a70af5b5fa29798092953a5ccad958c3f0ca356f617785a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_materials_science",
+          "title": "Computational materials science",
+          "title_slug": "Computational_materials_science",
+          "domain": "chemistry_materials",
+          "selection_key": "45a4f8ebbe1136aa8e393400b1e6c8cfa2391c4bb3b6871afacf509b85923288"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Mathematical_chemistry",
+          "title": "Mathematical chemistry",
+          "title_slug": "Mathematical_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "46449a7ae941f76e4cd5706e718d75d0b60ae31bb2a1e81998e379d072319984"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Metallurgy_of_Russia",
+          "title": "Metallurgy of Russia",
+          "title_slug": "Metallurgy_of_Russia",
+          "domain": "chemistry_materials",
+          "selection_key": "48d27542cd9cc47852971922aab15a5b0bf7b14bb1bbb0165d1daeb957d01d32"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chemical_elements_in_East_Asian_languages",
+          "title": "Chemical elements in East Asian languages",
+          "title_slug": "Chemical_elements_in_East_Asian_languages",
+          "domain": "chemistry_materials",
+          "selection_key": "4cd534ca0f374e8630a245b9914c204bf4410e7eb5cc0a08a03a4f4f99c84b58"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Prices_of_chemical_elements",
+          "title": "Prices of chemical elements",
+          "title_slug": "Prices_of_chemical_elements",
+          "domain": "chemistry_materials",
+          "selection_key": "4e56d5e34d0e6f2bf08ee4559ffd44fd013e3db1c571dc0071862fc9e98bdcc9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ancient_Ferrous_Metallurgy_Sites_of_Burkina_Faso",
+          "title": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+          "title_slug": "Ancient_Ferrous_Metallurgy_Sites_of_Burkina_Faso",
+          "domain": "chemistry_materials",
+          "selection_key": "52bcd0de044764e015f0ff768316ab340db3c4fbd9dc974fa44f4712dc4b11c1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Elemental_analysis",
+          "title": "Elemental analysis",
+          "title_slug": "Elemental_analysis",
+          "domain": "chemistry_materials",
+          "selection_key": "53e13bec23720038088976f79aa2f5a18e2b8122c7e0325c8cc6a79260cb14a8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Materials_Science",
+          "title": "Journal of Materials Science",
+          "title_slug": "Journal_of_Materials_Science",
+          "domain": "chemistry_materials",
+          "selection_key": "5562f97f8314da0cac59cca375afd3e64ba515687514b018c789dd7c4e4c59aa"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Powder_metallurgy",
+          "title": "Powder metallurgy",
+          "title_slug": "Powder_metallurgy",
+          "domain": "chemistry_materials",
+          "selection_key": "5a8f2287dc32fe8cd3b51097ee17ea5bc6dffeb857b0dcdd4e6d62afbbb072f3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Materials_Science_Laboratory",
+          "title": "Materials Science Laboratory",
+          "title_slug": "Materials_Science_Laboratory",
+          "domain": "chemistry_materials",
+          "selection_key": "5b7b2abc0399cf6d5495239f6d8aeba95a5b7adfdc4bf9d0c7be0eb0386f5645"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Annual_Review_of_Materials_Research",
+          "title": "Annual Review of Materials Research",
+          "title_slug": "Annual_Review_of_Materials_Research",
+          "domain": "chemistry_materials",
+          "selection_key": "5cf646b9d0e9e3230731189ead4eca45a1409b5479ec5d52f0fc760dd0ae8fb8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Medal_%22For_the_Restoration_of_the_Black_Metallurgy_Enterprises_of_the_South%22",
+          "title": "Medal \"For the Restoration of the Black Metallurgy Enterprises of the South\"",
+          "title_slug": "Medal_\"For_the_Restoration_of_the_Black_Metallurgy_Enterprises_of_the_South\"",
+          "domain": "chemistry_materials",
+          "selection_key": "6c84f5f7a58404fbe827e067dca8e7339dd5a8019f79c1a0d1e6b4072cd8b2ef"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Chemistry_Week",
+          "title": "National Chemistry Week",
+          "title_slug": "National_Chemistry_Week",
+          "domain": "chemistry_materials",
+          "selection_key": "6c92527518ba170316e5763ac7aa2877b1a5248a45f8316d8aeefe735e23bb5d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Swiss_Federal_Laboratories_for_Materials_Science_and_Technology",
+          "title": "Swiss Federal Laboratories for Materials Science and Technology",
+          "title_slug": "Swiss_Federal_Laboratories_for_Materials_Science_and_Technology",
+          "domain": "chemistry_materials",
+          "selection_key": "6d3a4577fe93fe0cbcab5a6db52160b0f6353834749dfa70d9bb5f12f1633faa"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer",
+          "title": "Polymer",
+          "title_slug": "Polymer",
+          "domain": "chemistry_materials",
+          "selection_key": "6f5ee5bccbd168ea25626054720b79424d27293ad2df9923d36508e9ac357309"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Photonic_molecule",
+          "title": "Photonic molecule",
+          "title_slug": "Photonic_molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "717822a197517e39d123db27c4f36ac372ec575551c4f888ad058e473e6d957e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Affibody_molecule",
+          "title": "Affibody molecule",
+          "title_slug": "Affibody_molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "756add59d5bc6bb60701bb28125c78ab4fb189b4f1e04da9bb63461f15ddb463"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Materials_science_in_science_fiction",
+          "title": "Materials science in science fiction",
+          "title_slug": "Materials_science_in_science_fiction",
+          "domain": "chemistry_materials",
+          "selection_key": "77c6140385ec55b725525b8987cdee0d66eff72eeeacbdc7de48b9348f7d79b8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Single-molecule_FRET",
+          "title": "Single-molecule FRET",
+          "title_slug": "Single-molecule_FRET",
+          "domain": "chemistry_materials",
+          "selection_key": "7829e36417008f9035dfd7941df951e6de908bb84b1fffd5f7fabf22727000e8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Biomedical_Materials_Research",
+          "title": "Journal of Biomedical Materials Research",
+          "title_slug": "Journal_of_Biomedical_Materials_Research",
+          "domain": "chemistry_materials",
+          "selection_key": "7ac273bec51c10349fd0f8917420781299cfbd79cf768f380cf451d967254d90"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Homonuclear_molecule",
+          "title": "Homonuclear molecule",
+          "title_slug": "Homonuclear_molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "8296e8f4059659743b8fbddd2267283199193eebf394783e08b86232d4bbb080"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer-based_battery",
+          "title": "Polymer-based battery",
+          "title_slug": "Polymer-based_battery",
+          "domain": "chemistry_materials",
+          "selection_key": "82c4537992c588fc87d70ddece53081f69984676c15749964865fb690eed1719"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer_capacitor",
+          "title": "Polymer capacitor",
+          "title_slug": "Polymer_capacitor",
+          "domain": "chemistry_materials",
+          "selection_key": "83e87f7229f625d4c6a7a91931297dbd4ebb9cae83f49a20bc680325d88dd20b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Biophysical_chemistry",
+          "title": "Biophysical chemistry",
+          "title_slug": "Biophysical_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "84d1f479ee1079752a3188e165972bd121f4c7ed74379500d46c5d6681ecc416"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Dispersion_stabilized_molecules",
+          "title": "Dispersion stabilized molecules",
+          "title_slug": "Dispersion_stabilized_molecules",
+          "domain": "chemistry_materials",
+          "selection_key": "851123a499d9902ba41b2ef1677b4c3978ad1e1fea642fd894e4e958fd2a817c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Small_molecule",
+          "title": "Small molecule",
+          "title_slug": "Small_molecule",
+          "domain": "chemistry_materials",
+          "selection_key": "8cd517320c5da724d3ab9aba064fa0a76381fbe339fab961f30ebdfc70148309"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chemical_compound",
+          "title": "Chemical compound",
+          "title_slug": "Chemical_compound",
+          "domain": "chemistry_materials",
+          "selection_key": "8dd17c78e6737192be459b3ba31d8dd4dbc69dbac810312bab0f7fe8e73c4e81"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Periodic_systems_of_small_molecules",
+          "title": "Periodic systems of small molecules",
+          "title_slug": "Periodic_systems_of_small_molecules",
+          "domain": "chemistry_materials",
+          "selection_key": "8f3d8e595c49c4e0b1ebc9a780e918f8e8058bee1db5f3994ba04b9fd156bbd3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Polymer_banknote",
+          "title": "Polymer banknote",
+          "title_slug": "Polymer_banknote",
+          "domain": "chemistry_materials",
+          "selection_key": "8f56c5bd40caeacd9c87fa028d8a25d29ffe980f321e3dbaebcc9c077f8a7d3c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Molecule_Man",
+          "title": "Molecule Man",
+          "title_slug": "Molecule_Man",
+          "domain": "chemistry_materials",
+          "selection_key": "9064208bde529361b3c7d87abc5ff6fa15fa2ebaa961bac048e3bffab83866c7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Food_physical_chemistry",
+          "title": "Food physical chemistry",
+          "title_slug": "Food_physical_chemistry",
+          "domain": "chemistry_materials",
+          "selection_key": "911ee48225989b4202134f02e16ad4212c7a7945d5721009174cb465a2c15ed8"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "chemistry",
+          "start": 0,
+          "count": 17
+        },
+        {
+          "query": "chemistry",
+          "start": 20,
+          "count": 17
+        },
+        {
+          "query": "chemistry",
+          "start": 40,
+          "count": 17
+        },
+        {
+          "query": "chemistry",
+          "start": 60,
+          "count": 17
+        },
+        {
+          "query": "chemistry",
+          "start": 80,
+          "count": 17
+        },
+        {
+          "query": "chemical element",
+          "start": 0,
+          "count": 12
+        },
+        {
+          "query": "chemical element",
+          "start": 20,
+          "count": 12
+        },
+        {
+          "query": "chemical element",
+          "start": 40,
+          "count": 12
+        },
+        {
+          "query": "chemical element",
+          "start": 60,
+          "count": 12
+        },
+        {
+          "query": "chemical element",
+          "start": 80,
+          "count": 12
+        },
+        {
+          "query": "materials science",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "materials science",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "materials science",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "materials science",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "materials science",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "molecule",
+          "start": 0,
+          "count": 19
+        },
+        {
+          "query": "molecule",
+          "start": 20,
+          "count": 19
+        },
+        {
+          "query": "molecule",
+          "start": 40,
+          "count": 19
+        },
+        {
+          "query": "molecule",
+          "start": 60,
+          "count": 19
+        },
+        {
+          "query": "molecule",
+          "start": 80,
+          "count": 19
+        },
+        {
+          "query": "polymer",
+          "start": 0,
+          "count": 20
+        },
+        {
+          "query": "polymer",
+          "start": 20,
+          "count": 20
+        },
+        {
+          "query": "polymer",
+          "start": 40,
+          "count": 20
+        },
+        {
+          "query": "polymer",
+          "start": 60,
+          "count": 20
+        },
+        {
+          "query": "polymer",
+          "start": 80,
+          "count": 20
+        },
+        {
+          "query": "metallurgy",
+          "start": 0,
+          "count": 20
+        },
+        {
+          "query": "metallurgy",
+          "start": 20,
+          "count": 20
+        },
+        {
+          "query": "metallurgy",
+          "start": 40,
+          "count": 20
+        },
+        {
+          "query": "metallurgy",
+          "start": 60,
+          "count": 20
+        },
+        {
+          "query": "metallurgy",
+          "start": 80,
+          "count": 20
+        }
+      ]
+    },
+    "life_medicine": {
+      "queries": [
+        "biology",
+        "medicine",
+        "disease",
+        "genetics",
+        "anatomy",
+        "pharmacology"
+      ],
+      "candidates_total": 96,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Surface_anatomy",
+          "title": "Surface anatomy",
+          "title_slug": "Surface_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "015d1beb52e03c0273ecd2e2844f087df4814226e1fa006d412b98fddb3b68c9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Biological_systems_engineering",
+          "title": "Biological systems engineering",
+          "title_slug": "Biological_systems_engineering",
+          "domain": "life_medicine",
+          "selection_key": "038bf064b51e14d334ddfd08651a0b5570e473419599ede9f8e690938b5f78a0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/American_Society_for_Pharmacology_and_Experimental_Therapeutics",
+          "title": "American Society for Pharmacology and Experimental Therapeutics",
+          "title_slug": "American_Society_for_Pharmacology_and_Experimental_Therapeutics",
+          "domain": "life_medicine",
+          "selection_key": "039f968b43717dae2b51f773bf140c85fddd222b249eb1d7ff0e4fb85395a2f3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_counseling",
+          "title": "Genetic counseling",
+          "title_slug": "Genetic_counseling",
+          "domain": "life_medicine",
+          "selection_key": "03f32273355d44866659dae69957bc4b8157bcd82cafd09794e03db2f014949a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Coeliac_disease",
+          "title": "Coeliac disease",
+          "title_slug": "Coeliac_disease",
+          "domain": "life_medicine",
+          "selection_key": "043bc9fd41ff34f5f8064adf41b68954c9571ed332aa3be203fed4c9537ddfc3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Biological_engineering",
+          "title": "Biological engineering",
+          "title_slug": "Biological_engineering",
+          "domain": "life_medicine",
+          "selection_key": "0603fdd90077564e22e04b790602cfeff4f1d0a7bdee2a05303458f25df413cc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Association_for_Ocular_Pharmacology_and_Therapeutics",
+          "title": "Association for Ocular Pharmacology and Therapeutics",
+          "title_slug": "Association_for_Ocular_Pharmacology_and_Therapeutics",
+          "domain": "life_medicine",
+          "selection_key": "067b7ecaa35c3f17ec7d2c384e1e2e1aa8b8a4458f0dc91e37a0124e57e03d8d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Jean_Genet",
+          "title": "Jean Genet",
+          "title_slug": "Jean_Genet",
+          "domain": "life_medicine",
+          "selection_key": "0896b6f89080367e9cd3621b3fc682e9cdc2c369dc1405a110491b4438edbfe6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Human_anatomy",
+          "title": "Human anatomy",
+          "title_slug": "Human_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "0ca99dd9517dc4d8463505c5883430701b5c65e1d178769dd855ba80a071a231"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Anatomy_of_a_Fall",
+          "title": "Anatomy of a Fall",
+          "title_slug": "Anatomy_of_a_Fall",
+          "domain": "life_medicine",
+          "selection_key": "0cde79db6a6df151a9376ce7318eaf3720e0889c62d743b90c9683a33185ca34"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Anatomy",
+          "title": "Anatomy",
+          "title_slug": "Anatomy",
+          "domain": "life_medicine",
+          "selection_key": "0e7b33a72fdce5869169cd059c18c896cb7c8bb8a2b0c2de58d0e696bee9ce99"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Population_genetics",
+          "title": "Population genetics",
+          "title_slug": "Population_genetics",
+          "domain": "life_medicine",
+          "selection_key": "1004ab215f9941375b3470c35a5e64b07573a068e517da9373c17ea1b73f13a7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Pharmacological_cardiotoxicity",
+          "title": "Pharmacological cardiotoxicity",
+          "title_slug": "Pharmacological_cardiotoxicity",
+          "domain": "life_medicine",
+          "selection_key": "1b3aa139f368c5a43a7a52fbb164930f7612aa513d13e21ca4bef2b4ab33c736"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Potency_(pharmacology)",
+          "title": "Potency (pharmacology)",
+          "title_slug": "Potency_(pharmacology)",
+          "domain": "life_medicine",
+          "selection_key": "1c548b01107f8cf1f671810a3c1f7d8a1aa2fabcf9b0ace8a822742ebc20ada8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Lysosomal_storage_disease",
+          "title": "Lysosomal storage disease",
+          "title_slug": "Lysosomal_storage_disease",
+          "domain": "life_medicine",
+          "selection_key": "1d0c8bc278e906fc216ca1daa36fb74c48c69ffcc1da6fe14e0fb19a1792fd19"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Philosophy_of_biology",
+          "title": "Philosophy of biology",
+          "title_slug": "Philosophy_of_biology",
+          "domain": "life_medicine",
+          "selection_key": "22278a2cf51fce0d7051010bc42556d8ef2362d7673445bead864542f6ef3787"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gross_anatomy",
+          "title": "Gross anatomy",
+          "title_slug": "Gross_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "22a897c55e07f51ea8abd769c24202f6092b7741018189afcdfb3edd3dff588a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Annual_Review_of_Pharmacology_and_Toxicology",
+          "title": "Annual Review of Pharmacology and Toxicology",
+          "title_slug": "Annual_Review_of_Pharmacology_and_Toxicology",
+          "domain": "life_medicine",
+          "selection_key": "252250c154497c0e9db509759dcbd0d0a6976a51f659d289cdca61e56270c43d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Coral_disease",
+          "title": "Coral disease",
+          "title_slug": "Coral_disease",
+          "domain": "life_medicine",
+          "selection_key": "2805387703735218ea2060c0a43bf1772be8dcba580551ec7a01a79e6f8622fb"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Disease",
+          "title": "Disease",
+          "title_slug": "Disease",
+          "domain": "life_medicine",
+          "selection_key": "2cdca6092cf1b2bbc3fa08c100289a30963c02d0335555bffb10fbc87b1b0c65"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Pharmacology_of_selegiline",
+          "title": "Pharmacology of selegiline",
+          "title_slug": "Pharmacology_of_selegiline",
+          "domain": "life_medicine",
+          "selection_key": "373ee591f089c27a3d1969f960c24c3b7dc81760ef005078283cd9c64847d0da"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3ABiology/Categories",
+          "title": "Categories",
+          "title_slug": "Categories",
+          "domain": "life_medicine",
+          "selection_key": "395139a168b2763051496191d22363a7b1ceb28b7f920ece2d54fcf28aec495e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3AAnatomy/Categories",
+          "title": "Categories",
+          "title_slug": "Categories",
+          "domain": "life_medicine",
+          "selection_key": "395139a168b2763051496191d22363a7b1ceb28b7f920ece2d54fcf28aec495e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Comparative_anatomy",
+          "title": "Comparative anatomy",
+          "title_slug": "Comparative_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "3e9b3d5da51cdac17479c8b90b3a9f9356fea0e976c1d32310c8cff44125aaa3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Crohn's_disease",
+          "title": "Crohn's disease",
+          "title_slug": "Crohn's_disease",
+          "domain": "life_medicine",
+          "selection_key": "3f7e66bbab185b2b41d014f6de9c521fa4994cb15ef83e3dadc7a0d867c45e88"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Goodman_%26_Gilman's_The_Pharmacological_Basis_of_Therapeutics",
+          "title": "Goodman & Gilman's The Pharmacological Basis of Therapeutics",
+          "title_slug": "Goodman_&_Gilman's_The_Pharmacological_Basis_of_Therapeutics",
+          "domain": "life_medicine",
+          "selection_key": "43b438605b973729a3430b8498f37ea8c1049b7f682f9732553ab7647b672dc0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Elective_genetic_and_genomic_testing",
+          "title": "Elective genetic and genomic testing",
+          "title_slug": "Elective_genetic_and_genomic_testing",
+          "domain": "life_medicine",
+          "selection_key": "4454fd81e09f2609e6b6d5b43e5aa4c8b6f47f30be23ae884a54333a1b466f29"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/European_Association_for_Clinical_Pharmacology_and_Therapeutics",
+          "title": "European Association for Clinical Pharmacology and Therapeutics",
+          "title_slug": "European_Association_for_Clinical_Pharmacology_and_Therapeutics",
+          "domain": "life_medicine",
+          "selection_key": "45c5df53d923b4d844befa8183bc1b06119ce9e196a5da699d1bb939e9513a4b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_isolate",
+          "title": "Genetic isolate",
+          "title_slug": "Genetic_isolate",
+          "domain": "life_medicine",
+          "selection_key": "4bb4eebbe3ee990ed53b956e98013e02223aa2840841f369d919a82fa42242d5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Traditional_Thai_medicine",
+          "title": "Traditional Thai medicine",
+          "title_slug": "Traditional_Thai_medicine",
+          "domain": "life_medicine",
+          "selection_key": "4cce8ed4c4d362407ca235a376fe52d935b53b80dcb8ad31e48d639e61aee815"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Transcendental_anatomy",
+          "title": "Transcendental anatomy",
+          "title_slug": "Transcendental_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "4f3163f91784d79aa976710ee029dc906e927619e47f8461574b4740469442bf"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Guide_to_Pharmacology",
+          "title": "Guide to Pharmacology",
+          "title_slug": "Guide_to_Pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "4fc3c9e239358cd054f5413d04aa13eab5ec19ccd47ccd6a0cf4b3080ac61bb6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Classical_pharmacology",
+          "title": "Classical pharmacology",
+          "title_slug": "Classical_pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "51756d7fb759d691eca39abbb727c38f9860ca48d98b14a4d7a529987a045031"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gray's_Anatomy_for_Students",
+          "title": "Gray's Anatomy for Students",
+          "title_slug": "Gray's_Anatomy_for_Students",
+          "domain": "life_medicine",
+          "selection_key": "54707c49e95b7e20a796baacfda971f79e33e000bcd6d6359ab1e4e7e94d42f0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_privacy",
+          "title": "Genetic privacy",
+          "title_slug": "Genetic_privacy",
+          "domain": "life_medicine",
+          "selection_key": "55af9c6993509e4360de38f4988d281459cc51c6d401376639b5d3279f7c8a3a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Clinical_pharmacology",
+          "title": "Clinical pharmacology",
+          "title_slug": "Clinical_pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "5602e0aa6345bdcb959a5bdcd01533a2c7437d94c18f632b73c7c6cb2bbfca74"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Safety_pharmacology",
+          "title": "Safety pharmacology",
+          "title_slug": "Safety_pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "58e91640525a4bf95898e53713281c2bac3d5db36b92f294334a9c177a5cf3a0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gray's_Anatomy",
+          "title": "Gray's Anatomy",
+          "title_slug": "Gray's_Anatomy",
+          "domain": "life_medicine",
+          "selection_key": "5bd81da6b782a49f8cb8e604064143c04eba36b54ea819b0dc6b2969c5dcf268"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_variation",
+          "title": "Genetic variation",
+          "title_slug": "Genetic_variation",
+          "domain": "life_medicine",
+          "selection_key": "5feb6bcb9d292c65fa69b80973f91b86065a23998799676b2822f5e510f7411b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Molecular_genetics",
+          "title": "Molecular genetics",
+          "title_slug": "Molecular_genetics",
+          "domain": "life_medicine",
+          "selection_key": "648cfac1f03193b59db87340ebf34b41ad6832e201cedc692c30b74222157920"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Molecular_anatomy",
+          "title": "Molecular anatomy",
+          "title_slug": "Molecular_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "64c10e257a75b0ba9641a5e91b728e92e60d7f22c4494baa4e00d358fc1c7f0c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Georgian_folk_medicine",
+          "title": "Georgian folk medicine",
+          "title_slug": "Georgian_folk_medicine",
+          "domain": "life_medicine",
+          "selection_key": "65392db4ad9cd3a87d808bc365be64163819e94ce9aa7a48373f59250ecdb552"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_discrimination",
+          "title": "Genetic discrimination",
+          "title_slug": "Genetic_discrimination",
+          "domain": "life_medicine",
+          "selection_key": "6bcf92ba82542c8d2e034d64c3baf25b73516d628554a27c460badc61c62b896"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Decapod_anatomy",
+          "title": "Decapod anatomy",
+          "title_slug": "Decapod_anatomy",
+          "domain": "life_medicine",
+          "selection_key": "6dee42bb31c434265649a0196e2980a86c6261e5123b571192723ab5d40d4251"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Traditional_medicine",
+          "title": "Traditional medicine",
+          "title_slug": "Traditional_medicine",
+          "domain": "life_medicine",
+          "selection_key": "71965f49fc87befeb856685e90c35abc25c00ba1b577c650f2323e8e9c054adc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Wilderness_medicine",
+          "title": "Wilderness medicine",
+          "title_slug": "Wilderness_medicine",
+          "domain": "life_medicine",
+          "selection_key": "723d65afc243d05e2d4000b3b893e358d09498d94d1d7d5cc10c44f79ef779ff"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Alternative_medicine",
+          "title": "Alternative medicine",
+          "title_slug": "Alternative_medicine",
+          "domain": "life_medicine",
+          "selection_key": "749af7176ae0fc6b3acf5789e83821a8c7c364e653d3cbf4e340477be4690ec2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/British_Journal_of_Pharmacology",
+          "title": "British Journal of Pharmacology",
+          "title_slug": "British_Journal_of_Pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "797a06882652f7618d206e4b3652ad16748ab73518fdf907db537c7778a17187"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Pharmacology",
+          "title": "Pharmacology",
+          "title_slug": "Pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "7c33113ed14cac5accbbb68f4753d665f15e2f543bf4d0f333c8ab4d8e0ae995"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Adolescent_medicine",
+          "title": "Adolescent medicine",
+          "title_slug": "Adolescent_medicine",
+          "domain": "life_medicine",
+          "selection_key": "7c7716d79e4e47d004c126735eef4d7c1de7d534e36b7187dfdd8c0c08032917"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Notifiable_disease",
+          "title": "Notifiable disease",
+          "title_slug": "Notifiable_disease",
+          "domain": "life_medicine",
+          "selection_key": "7df1c1c2e18643f755e34516206cd05b9c13ac7fc14a38803633ac399c6ba0d7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Danon_disease",
+          "title": "Danon disease",
+          "title_slug": "Danon_disease",
+          "domain": "life_medicine",
+          "selection_key": "846855a988318fd747cbebc0e424775f5e2a93aa6e22a4cbe4e8dfd301214798"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Genetic_rescue",
+          "title": "Genetic rescue",
+          "title_slug": "Genetic_rescue",
+          "domain": "life_medicine",
+          "selection_key": "896f6b7aeb278f2fb863b9fec4ce44aba7a2779ed448bd9430e717d544fe0388"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Quantitative_systems_pharmacology",
+          "title": "Quantitative systems pharmacology",
+          "title_slug": "Quantitative_systems_pharmacology",
+          "domain": "life_medicine",
+          "selection_key": "89e02f5de4f0160dd58fa4f4522f08b1d715d633134282c95f69aa7a7736d5b6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Medical_genetics",
+          "title": "Medical genetics",
+          "title_slug": "Medical_genetics",
+          "domain": "life_medicine",
+          "selection_key": "8b471b99cf241ca4942c14ae9752db0ca0f71ce7ddad316ec38ba1ea5e625a56"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Anatomy",
+          "title": "Journal of Anatomy",
+          "title_slug": "Journal_of_Anatomy",
+          "domain": "life_medicine",
+          "selection_key": "8ed7fd4324d8ac61c54dd38428ee0460329f9fcbd88b5933b70a77ebcaffc079"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "biology",
+          "start": 0,
+          "count": 15
+        },
+        {
+          "query": "biology",
+          "start": 20,
+          "count": 15
+        },
+        {
+          "query": "biology",
+          "start": 40,
+          "count": 15
+        },
+        {
+          "query": "biology",
+          "start": 60,
+          "count": 15
+        },
+        {
+          "query": "biology",
+          "start": 80,
+          "count": 15
+        },
+        {
+          "query": "medicine",
+          "start": 0,
+          "count": 12
+        },
+        {
+          "query": "medicine",
+          "start": 20,
+          "count": 12
+        },
+        {
+          "query": "medicine",
+          "start": 40,
+          "count": 12
+        },
+        {
+          "query": "medicine",
+          "start": 60,
+          "count": 12
+        },
+        {
+          "query": "medicine",
+          "start": 80,
+          "count": 12
+        },
+        {
+          "query": "disease",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "disease",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "disease",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "disease",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "disease",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "genetics",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "genetics",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "genetics",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "genetics",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "genetics",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "anatomy",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "anatomy",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "anatomy",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "anatomy",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "anatomy",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "pharmacology",
+          "start": 0,
+          "count": 20
+        },
+        {
+          "query": "pharmacology",
+          "start": 20,
+          "count": 20
+        },
+        {
+          "query": "pharmacology",
+          "start": 40,
+          "count": 20
+        },
+        {
+          "query": "pharmacology",
+          "start": 60,
+          "count": 20
+        },
+        {
+          "query": "pharmacology",
+          "start": 80,
+          "count": 20
+        }
+      ]
+    },
+    "geography_environment": {
+      "queries": [
+        "geography",
+        "country",
+        "river",
+        "mountain",
+        "climate",
+        "ecosystem"
+      ],
+      "candidates_total": 93,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Marine_ecosystem",
+          "title": "Marine ecosystem",
+          "title_slug": "Marine_ecosystem",
+          "domain": "geography_environment",
+          "selection_key": "031c256a06efa10be82ec1c46c0855f7ee177e254dc40ac6230882a02f807980"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem_ecology",
+          "title": "Ecosystem ecology",
+          "title_slug": "Ecosystem_ecology",
+          "domain": "geography_environment",
+          "selection_key": "090a93c1c3d23ed31356db0c1d8bff373787904007dccc30a1edc844fd0c222b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Little_Magalloway_River",
+          "title": "Little Magalloway River",
+          "title_slug": "Little_Magalloway_River",
+          "domain": "geography_environment",
+          "selection_key": "105e6e7f4d4b36cdbe1dddc2f14d60edd3b4c12e1b206eff01e488d3b6dd1da3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/South_River_(Ossipee_River_tributary)",
+          "title": "South River (Ossipee River tributary)",
+          "title_slug": "South_River_(Ossipee_River_tributary)",
+          "domain": "geography_environment",
+          "selection_key": "1836ed207b4d27f539d1149aefcf0e2c2d3a76685d31958a3a9af1a61eb1f575"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Country_music",
+          "title": "Country music",
+          "title_slug": "Country_music",
+          "domain": "geography_environment",
+          "selection_key": "18c6753a160b3206711430ed258dbea7285785fb1e0a14baee91ca13ecc23f6a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_psychology",
+          "title": "Climate psychology",
+          "title_slug": "Climate_psychology",
+          "domain": "geography_environment",
+          "selection_key": "1b9ca05edb3fa8eb36895eb28a486040b5f3b632c71b05bd6855380b2cc60606"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Dun_Brook_Mountain",
+          "title": "Dun Brook Mountain",
+          "title_slug": "Dun_Brook_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "1da92a9078f33dd5ec35e2b581f3982d9420b65e4361457bcf6f992fff46a09b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Digital_ecosystem",
+          "title": "Digital ecosystem",
+          "title_slug": "Digital_ecosystem",
+          "domain": "geography_environment",
+          "selection_key": "204a055718cc06c14f8c5df81c7701f7801ee4353b089d2794c3c89f6448b0f6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Health_geography",
+          "title": "Health geography",
+          "title_slug": "Health_geography",
+          "domain": "geography_environment",
+          "selection_key": "207a3d8d60ca023f21aef73e4353110d865f49dc4447c57c80ef0bedc27dd610"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem_service",
+          "title": "Ecosystem service",
+          "title_slug": "Ecosystem_service",
+          "domain": "geography_environment",
+          "selection_key": "23183be8e42c0598dd35abd28e3c0b34abc5e082b769abd6d88c5d00ed4cb9e3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_communication",
+          "title": "Climate communication",
+          "title_slug": "Climate_communication",
+          "domain": "geography_environment",
+          "selection_key": "247d5cab682ef09c0d178b2649f2ba33e1ca3938980891195b4c0e7d2797df44"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/UK_Country_Airplay",
+          "title": "UK Country Airplay",
+          "title_slug": "UK_Country_Airplay",
+          "domain": "geography_environment",
+          "selection_key": "2c155bdd4936078e2ddc6e8a25ee56fc798aa1d4a054851f6d6924e4484a4358"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Christian_country_music",
+          "title": "Christian country music",
+          "title_slug": "Christian_country_music",
+          "domain": "geography_environment",
+          "selection_key": "30e7d6cac99711f800ba0e397cc3551616ab5a4b8abb76fc4bcaaac226e7dc64"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bramley_Mountain",
+          "title": "Bramley Mountain",
+          "title_slug": "Bramley_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "3204a3efcbb58f67d65f320e083ba94651ac5f612c604ed8bd8e209cbd35ce83"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Middle_Branch_Mad_River",
+          "title": "Middle Branch Mad River",
+          "title_slug": "Middle_Branch_Mad_River",
+          "domain": "geography_environment",
+          "selection_key": "3aceec27a5f4e218664fee5024a78228a9c9aed35e76054e091c5107b2d0a38d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Morrow_Mountain_(New_York)",
+          "title": "Morrow Mountain (New York)",
+          "title_slug": "Morrow_Mountain_(New_York)",
+          "domain": "geography_environment",
+          "selection_key": "3cbd283ee572a01ace40c23ed1fb70565d712371dcd28e3e829795ec81583bcf"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_Action_Africa",
+          "title": "Climate Action Africa",
+          "title_slug": "Climate_Action_Africa",
+          "domain": "geography_environment",
+          "selection_key": "429714499fc684194a606817f58d9355c30b3474b92a2d64e18b7a8fd1daa8fc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Political_geography",
+          "title": "Political geography",
+          "title_slug": "Political_geography",
+          "domain": "geography_environment",
+          "selection_key": "47214f990726adc038ff78cf9763415aa924a790905c6c109d53bdb1761bc498"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Kempshall_Mountain",
+          "title": "Kempshall Mountain",
+          "title_slug": "Kempshall_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "4b0094a21e71490caee31b64fd8b1ed53d14a4ca2d25e9f25b80d58a4d416a70"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_and_Clean_Air_Coalition_to_Reduce_Short-Lived_Climate_Pollutants",
+          "title": "Climate and Clean Air Coalition to Reduce Short-Lived Climate Pollutants",
+          "title_slug": "Climate_and_Clean_Air_Coalition_to_Reduce_Short-Lived_Climate_Pollutants",
+          "domain": "geography_environment",
+          "selection_key": "4beef7115859d82a5577eea2c5640416b518584bf3488cb6e5a9a4f021413cd5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/South_Branch_Mad_River",
+          "title": "South Branch Mad River",
+          "title_slug": "South_Branch_Mad_River",
+          "domain": "geography_environment",
+          "selection_key": "4db1bb3a1f3b17e07bca7906d665c308be706e05b8b3fd953fa12505c9065c4e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Quantitative_geography",
+          "title": "Quantitative geography",
+          "title_slug": "Quantitative_geography",
+          "domain": "geography_environment",
+          "selection_key": "50239bdc891028ebdee30f1d353164fe0d41f1634ce3cf470d35c6d0c04123ff"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Penn_Mountain",
+          "title": "Penn Mountain",
+          "title_slug": "Penn_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "50a747807757d78cf61df7994be82263dc27f5db694974670cc4155e4e05a63c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem_health",
+          "title": "Ecosystem health",
+          "title_slug": "Ecosystem_health",
+          "domain": "geography_environment",
+          "selection_key": "55b29ef931ca3f808e2999930adc87575df9d6e5f52528c6aaa8922c72bfa358"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Berlin_Mountain",
+          "title": "Berlin Mountain",
+          "title_slug": "Berlin_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "5966c5b19013c37bf91a0e675686f58dfd303fa15398b3280788b6cb5ed436c2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Country_New_South_Wales_rugby_league_team",
+          "title": "Country New South Wales rugby league team",
+          "title_slug": "Country_New_South_Wales_rugby_league_team",
+          "domain": "geography_environment",
+          "selection_key": "5988841a09311442c67d754c84fd4a2146aed0f3d612b719bd74ceaac325550d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Loon_Lake_Mountains",
+          "title": "Loon Lake Mountains",
+          "title_slug": "Loon_Lake_Mountains",
+          "domain": "geography_environment",
+          "selection_key": "5b1e7fa1ddc519d9fbd78586d9455b4f85b7b5d00c97495e7666ac22ef71023b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Petersburg_Mountain",
+          "title": "Petersburg Mountain",
+          "title_slug": "Petersburg_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "5d67ecbc58b4566db0f544d59f7b3f27d682ef8f7a7619f2ad502ffb7cc1ca8e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Classic_country",
+          "title": "Classic country",
+          "title_slug": "Classic_country",
+          "domain": "geography_environment",
+          "selection_key": "5db7427d7b3f6092912fb53dd40ed63f23ae6f44f523284e85e4d034e4b24fa5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Crane_Mountain_(New_York)",
+          "title": "Crane Mountain (New York)",
+          "title_slug": "Crane_Mountain_(New_York)",
+          "domain": "geography_environment",
+          "selection_key": "5f7d434cd337704d6e67932e033795bb0ba41a3520d35dfb2b74ca7a25c2a2c5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Youth_Climate_Movement",
+          "title": "Youth Climate Movement",
+          "title_slug": "Youth_Climate_Movement",
+          "domain": "geography_environment",
+          "selection_key": "69147839a9cc68634659d14d15200769882c38029e01e741320a4b65f6fb5a0f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Basque_Country_autonomous_basketball_team",
+          "title": "Basque Country autonomous basketball team",
+          "title_slug": "Basque_Country_autonomous_basketball_team",
+          "domain": "geography_environment",
+          "selection_key": "69f5f2e566c3f41b78110bf663f833da0d520477dd17d434c3adc18ccebac69b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/K%C3%B6ppen_climate_classification",
+          "title": "Köppen climate classification",
+          "title_slug": "Köppen_climate_classification",
+          "domain": "geography_environment",
+          "selection_key": "6b92285f535ee6f3530b8ceb813dfdb0e3bba4a5d4920f396ce8e2957fb03268"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Meenahga_Mountain",
+          "title": "Meenahga Mountain",
+          "title_slug": "Meenahga_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "72588a2b2fd03bd4d970d85caac5b37a89b4061bf9f5826650d5b2b5f7b6149f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_crisis",
+          "title": "Climate crisis",
+          "title_slug": "Climate_crisis",
+          "domain": "geography_environment",
+          "selection_key": "72d02ea8e727e9d715c9271d6fb15c7aac1d3ce2eec3ef92bc4d6b22ce50dbff"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ossipee_River",
+          "title": "Ossipee River",
+          "title_slug": "Ossipee_River",
+          "domain": "geography_environment",
+          "selection_key": "7355ee2efd3abeec6e971dd87a75ec4a3db2fe309e2bf880a4bfaea08762bf86"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate",
+          "title": "Climate",
+          "title_slug": "Climate",
+          "domain": "geography_environment",
+          "selection_key": "74cd15419c51b9403bd98164c395514491991d3a7361636024b5bd6a7bc9c30b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/City_vs_Country_Origin",
+          "title": "City vs Country Origin",
+          "title_slug": "City_vs_Country_Origin",
+          "domain": "geography_environment",
+          "selection_key": "7598d467415787865eaf4aed3325f6e520614615c24ca19f1b2a7eb86322c773"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_change_in_the_Americas",
+          "title": "Climate change in the Americas",
+          "title_slug": "Climate_change_in_the_Americas",
+          "domain": "geography_environment",
+          "selection_key": "75f3ef5ed517a2080bb8e8980f8adf19019d5eecd93f37d16a9ff3eb50db3e2d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Debar_Mountain",
+          "title": "Debar Mountain",
+          "title_slug": "Debar_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "877a00d3cadc72e9539b93791b46c9c34c7bb13b62943aa2fdcde1eb4b4ef01a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Fingerboard_Mountain",
+          "title": "Fingerboard Mountain",
+          "title_slug": "Fingerboard_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "8be1dff458cf36751949354d51433d816ee80f50b316e66584df722185c7d7eb"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem-based_management",
+          "title": "Ecosystem-based management",
+          "title_slug": "Ecosystem-based_management",
+          "domain": "geography_environment",
+          "selection_key": "8cd97264e05fc2505930caa56f749301f8e35a1346be22364187fee48355ff2f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Human_geography",
+          "title": "Human geography",
+          "title_slug": "Human_geography",
+          "domain": "geography_environment",
+          "selection_key": "8ce92fa19098fc2389065e944ab0736326eca5e3cbe1660cb7e3737eb025e128"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Cultural_geography",
+          "title": "Cultural geography",
+          "title_slug": "Cultural_geography",
+          "domain": "geography_environment",
+          "selection_key": "934680c875f63f3c12b2865b23f193921b42d7c5837625a43c0b1b509df24064"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem_approach",
+          "title": "Ecosystem approach",
+          "title_slug": "Ecosystem_approach",
+          "domain": "geography_environment",
+          "selection_key": "965d2ff4230fde0e238b01538c733289ca9d4cb3f083b8f3ecf89325a9ec9c1c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem_engineer",
+          "title": "Ecosystem engineer",
+          "title_slug": "Ecosystem_engineer",
+          "domain": "geography_environment",
+          "selection_key": "97456c0f0c1d217d020dc62096ba370ebbebbf4c146e4f7a9164f8cc24d5d52a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Hurricane_Mountain",
+          "title": "Hurricane Mountain",
+          "title_slug": "Hurricane_Mountain",
+          "domain": "geography_environment",
+          "selection_key": "9ff05adc3eb01e77de4ffbffc0b87e854f4aad8f240c1167f9da967f72e6ea88"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Children's_geographies",
+          "title": "Children's geographies",
+          "title_slug": "Children's_geographies",
+          "domain": "geography_environment",
+          "selection_key": "a03baabaf0be549d9faf2d53acd5f3c4a716bf50603416d58060ab63d407cb10"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Economic_geography",
+          "title": "Economic geography",
+          "title_slug": "Economic_geography",
+          "domain": "geography_environment",
+          "selection_key": "a10144b8cfa6a1727b4b0db895ae88d00946f44e8cabae106cc641777716be71"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ecosystem",
+          "title": "Ecosystem",
+          "title_slug": "Ecosystem",
+          "domain": "geography_environment",
+          "selection_key": "a147460790e3562ca026eef85d8bb21d795dd387ed3508f1967099870d54daac"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Little_Cold_River",
+          "title": "Little Cold River",
+          "title_slug": "Little_Cold_River",
+          "domain": "geography_environment",
+          "selection_key": "a3f87e9de5bd0502a53e8c6b93995fbae8c661fefd429fbfd80fe2cb74a960f0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/UN_Decade_on_Ecosystem_Restoration",
+          "title": "UN Decade on Ecosystem Restoration",
+          "title_slug": "UN_Decade_on_Ecosystem_Restoration",
+          "domain": "geography_environment",
+          "selection_key": "a74b39463fcfce93d9d8a9ea1f4f08500358e8f1019d36dd9a587fd0270b7ca5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3ANorth_America/Geography/Panorama",
+          "title": "Panorama",
+          "title_slug": "Panorama",
+          "domain": "geography_environment",
+          "selection_key": "a9d920d2cb8ebcf443c5054150ab53c15c03c4c408ec55045bcbbdae508ffc1a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Climate_security",
+          "title": "Climate security",
+          "title_slug": "Climate_security",
+          "domain": "geography_environment",
+          "selection_key": "ac48ef2d6d463dc133abfac8dbb1f0b2bbd9573ed5cb55a83897636494ff7998"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Social_geography",
+          "title": "Social geography",
+          "title_slug": "Social_geography",
+          "domain": "geography_environment",
+          "selection_key": "acae75388ac4382f2dea6efd8a9ac2c7119124f826e235a556fb946db6f6af34"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Startup_ecosystem",
+          "title": "Startup ecosystem",
+          "title_slug": "Startup_ecosystem",
+          "domain": "geography_environment",
+          "selection_key": "af33020ac52983a5b4ccebe7e0f1547b85b588a34d6f4eadc58db63b77305ccc"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "geography",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "geography",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "geography",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "geography",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "geography",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "country",
+          "start": 0,
+          "count": 12
+        },
+        {
+          "query": "country",
+          "start": 20,
+          "count": 12
+        },
+        {
+          "query": "country",
+          "start": 40,
+          "count": 12
+        },
+        {
+          "query": "country",
+          "start": 60,
+          "count": 12
+        },
+        {
+          "query": "country",
+          "start": 80,
+          "count": 12
+        },
+        {
+          "query": "river",
+          "start": 0,
+          "count": 8
+        },
+        {
+          "query": "river",
+          "start": 20,
+          "count": 8
+        },
+        {
+          "query": "river",
+          "start": 40,
+          "count": 8
+        },
+        {
+          "query": "river",
+          "start": 60,
+          "count": 8
+        },
+        {
+          "query": "river",
+          "start": 80,
+          "count": 8
+        },
+        {
+          "query": "mountain",
+          "start": 0,
+          "count": 19
+        },
+        {
+          "query": "mountain",
+          "start": 20,
+          "count": 19
+        },
+        {
+          "query": "mountain",
+          "start": 40,
+          "count": 19
+        },
+        {
+          "query": "mountain",
+          "start": 60,
+          "count": 19
+        },
+        {
+          "query": "mountain",
+          "start": 80,
+          "count": 19
+        },
+        {
+          "query": "climate",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "climate",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "climate",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "climate",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "climate",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "ecosystem",
+          "start": 0,
+          "count": 20
+        },
+        {
+          "query": "ecosystem",
+          "start": 20,
+          "count": 20
+        },
+        {
+          "query": "ecosystem",
+          "start": 40,
+          "count": 20
+        },
+        {
+          "query": "ecosystem",
+          "start": 60,
+          "count": 20
+        },
+        {
+          "query": "ecosystem",
+          "start": 80,
+          "count": 20
+        }
+      ]
+    },
+    "history": {
+      "queries": [
+        "history",
+        "ancient Rome",
+        "Middle Ages",
+        "world war",
+        "revolution",
+        "archaeology"
+      ],
+      "candidates_total": 79,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Oxford_Archaeology",
+          "title": "Oxford Archaeology",
+          "title_slug": "Oxford_Archaeology",
+          "domain": "history",
+          "selection_key": "00d2e2356b0fc12ff76c3b6bb4a24723d4b1e119dfe29a1a90feea4c4f859685"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Historiography_of_the_French_Revolution",
+          "title": "Historiography of the French Revolution",
+          "title_slug": "Historiography_of_the_French_Revolution",
+          "domain": "history",
+          "selection_key": "07516822ac486a67ff65cac2fbcd5f76c106046d67eca9f0378e6309d1c0003a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Britain_in_the_Middle_Ages",
+          "title": "Britain in the Middle Ages",
+          "title_slug": "Britain_in_the_Middle_Ages",
+          "domain": "history",
+          "selection_key": "0a75fd81ed384c13cd8c2c46b604247f66ee736dd3f8a3825603e72e1d57bda3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/American_Society_of_Church_History",
+          "title": "American Society of Church History",
+          "title_slug": "American_Society_of_Church_History",
+          "domain": "history",
+          "selection_key": "114205daf88b8d526020182bb3e7f8e93f579a251a3d3d8275dd869012e78bac"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Global_History",
+          "title": "Journal of Global History",
+          "title_slug": "Journal_of_Global_History",
+          "domain": "history",
+          "selection_key": "12a46f391b9ea31fb4e7a508e2007312f03877a8de9008f4c638e25fda8c5981"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bibliography_of_World_War_I",
+          "title": "Bibliography of World War I",
+          "title_slug": "Bibliography_of_World_War_I",
+          "domain": "history",
+          "selection_key": "12b631d1c2af82d34ab04e1a465b24e88f5ab97fad011896c7f47a68f7012e15"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gaziantep_Museum_of_Archaeology",
+          "title": "Gaziantep Museum of Archaeology",
+          "title_slug": "Gaziantep_Museum_of_Archaeology",
+          "domain": "history",
+          "selection_key": "1432c8e7b11ad4941489855c8cfa927cb84932dbbeb97b3a708619777940b4ee"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Revolution_Come...Revolution_Go",
+          "title": "Revolution Come...Revolution Go",
+          "title_slug": "Revolution_Come...Revolution_Go",
+          "domain": "history",
+          "selection_key": "1450e1d73809982ec86d0593213fe016763eb2378d5c57c45c5ab8e707ddfb6c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Music_of_ancient_Rome",
+          "title": "Music of ancient Rome",
+          "title_slug": "Music_of_ancient_Rome",
+          "domain": "history",
+          "selection_key": "17b75ad14f5718e558b2e4ddd2468f6219a94a441c0ec4ec6160b8783ce4e0d1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Music_of_Dance_Dance_Revolution_X",
+          "title": "Music of Dance Dance Revolution X",
+          "title_slug": "Music_of_Dance_Dance_Revolution_X",
+          "domain": "history",
+          "selection_key": "1d95477b3f417ad00fcd19d5bb97e2a7292c03ca3b3585eb59dc5d1bd7bf67d7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Grade_II*_listed_war_memorials_in_England",
+          "title": "Grade II* listed war memorials in England",
+          "title_slug": "Grade_II*_listed_war_memorials_in_England",
+          "domain": "history",
+          "selection_key": "20f08a2e8eb7b94e328658118f38ffd048a196b5ec6354ce846a986f61c3c335"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Late_Middle_Ages",
+          "title": "Late Middle Ages",
+          "title_slug": "Late_Middle_Ages",
+          "domain": "history",
+          "selection_key": "20faccec806b47bb9a89e67f00bd708d9ca3e33aeac5bbe0e719be63b3c42ac4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Revolut",
+          "title": "Revolut",
+          "title_slug": "Revolut",
+          "domain": "history",
+          "selection_key": "21289047c7479d1909aabf2330d10d58ff8aa83ef1e599cfcda4276610365853"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Social_history",
+          "title": "Social history",
+          "title_slug": "Social_history",
+          "domain": "history",
+          "selection_key": "23c9a0fb7a6de1dfd73db6cef633da9058889b1b9b763df7f84f2374aada4c73"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Wales_in_the_Early_Middle_Ages",
+          "title": "Wales in the Early Middle Ages",
+          "title_slug": "Wales_in_the_Early_Middle_Ages",
+          "domain": "history",
+          "selection_key": "253c057c5d18ac6e9ca420ba2b3dc54b12a9433c526dcdbdbe0a718e8dbff4dd"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Post-medieval_archaeology",
+          "title": "Post-medieval archaeology",
+          "title_slug": "Post-medieval_archaeology",
+          "domain": "history",
+          "selection_key": "31b939c241950aaa9b13ae9acb933064ab5e0c11a9159b784d3f64e82a2f4459"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Middle_Stone_Age",
+          "title": "Middle Stone Age",
+          "title_slug": "Middle_Stone_Age",
+          "domain": "history",
+          "selection_key": "356b8aef0604e126e764a93ee4b888cffd0e7f2905d321c0c5e0c0199c4d4c16"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/2026_New_England_Revolution_season",
+          "title": "2026 New England Revolution season",
+          "title_slug": "2026_New_England_Revolution_season",
+          "domain": "history",
+          "selection_key": "3a43e3379e7874119cf76a7f059c4daf1650a1ee9aa486db80e5250a9d8aa466"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/2016_New_England_Revolution_season",
+          "title": "2016 New England Revolution season",
+          "title_slug": "2016_New_England_Revolution_season",
+          "domain": "history",
+          "selection_key": "3a8e002aa91097734370a4d2d8050a3c1cd59dd758eda560f0c73331862800dc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Journal_of_Interdisciplinary_History",
+          "title": "Journal of Interdisciplinary History",
+          "title_slug": "Journal_of_Interdisciplinary_History",
+          "domain": "history",
+          "selection_key": "3e96d8992c9e1440061287ffadeda657222468b9630edb3f34ab29d6733fbf7a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Middle_Ages_in_film",
+          "title": "Middle Ages in film",
+          "title_slug": "Middle_Ages_in_film",
+          "domain": "history",
+          "selection_key": "40778aac5315e26204f6ce0a941b86fa405703e05cf3b9e2a86a7349190371b9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/European_science_in_the_Middle_Ages",
+          "title": "European science in the Middle Ages",
+          "title_slug": "European_science_in_the_Middle_Ages",
+          "domain": "history",
+          "selection_key": "40b625587a5a9d4a9285b21f4c0648fb5cebea17857a68ae3289b1b2273cd8cc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Archaeology_by_country",
+          "title": "Archaeology by country",
+          "title_slug": "Archaeology_by_country",
+          "domain": "history",
+          "selection_key": "427f6b0711f0df0d45d99d6a3b6f3432df3328bcd03dec827bf6979e9ae0e805"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Crisis_of_the_late_Middle_Ages",
+          "title": "Crisis of the late Middle Ages",
+          "title_slug": "Crisis_of_the_late_Middle_Ages",
+          "domain": "history",
+          "selection_key": "43d43cf583f5c9c5e4d88d932c9a0f7a0e17c9faf9c4c69eb9547bee64935e79"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Historiography_in_the_Middle_Ages",
+          "title": "Historiography in the Middle Ages",
+          "title_slug": "Historiography_in_the_Middle_Ages",
+          "domain": "history",
+          "selection_key": "43d8abc29568799f209418106c064b522a83c62672fe88d90e0a2455c898a849"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Surgery_in_ancient_Rome",
+          "title": "Surgery in ancient Rome",
+          "title_slug": "Surgery_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "444727d6a5c0c4d4451b58b3f76b8c7408177820d3587c8b2f8a603d0659969f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Culture_of_ancient_Rome",
+          "title": "Culture of ancient Rome",
+          "title_slug": "Culture_of_ancient_Rome",
+          "domain": "history",
+          "selection_key": "46772a956b0a283775d0f1369f6e9479520325eca965bc8c31622bc77f2812d5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Early_Middle_Ages",
+          "title": "Early Middle Ages",
+          "title_slug": "Early_Middle_Ages",
+          "domain": "history",
+          "selection_key": "474e406c1232e6facd06f35cd38b7d77ae9532c9d86a1cb0718a8afb52238bc6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Religion_in_ancient_Rome",
+          "title": "Religion in ancient Rome",
+          "title_slug": "Religion_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "4b403ec30f10bb5f6be885acec28f82d0e1a66b508f96e97d13477c936dc0a8f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Animals_in_ancient_Greece_and_Rome",
+          "title": "Animals in ancient Greece and Rome",
+          "title_slug": "Animals_in_ancient_Greece_and_Rome",
+          "domain": "history",
+          "selection_key": "4c1fe652b2d094f7aa76375f11f8b1e083d9c140000b561be0d6573243c48790"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ancient_Rome",
+          "title": "Ancient Rome",
+          "title_slug": "Ancient_Rome",
+          "domain": "history",
+          "selection_key": "5187a5ff9c10d52735f2e204d2fec74781f983ceeb79eaa6442b333dd1bd0c26"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bursa_Archaeological_Museum",
+          "title": "Bursa Archaeological Museum",
+          "title_slug": "Bursa_Archaeological_Museum",
+          "domain": "history",
+          "selection_key": "56510d07cfc931b8424922c6bc9d9143186e74aa1b5909a80cf7063dcfc60a77"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Computational_archaeology",
+          "title": "Computational archaeology",
+          "title_slug": "Computational_archaeology",
+          "domain": "history",
+          "selection_key": "5f8ef66bbfcfa2339887bb73cd2dbed30e6b576c723ed9019f7cd84a3dffc349"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gynecology_in_ancient_Rome",
+          "title": "Gynecology in ancient Rome",
+          "title_slug": "Gynecology_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "63af603a17c0be13d871106f62f85c7be4fc023ceb839fd77bb2dc4e823816f3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gender_archaeology",
+          "title": "Gender archaeology",
+          "title_slug": "Gender_archaeology",
+          "domain": "history",
+          "selection_key": "67f3b1bf7ffd270195882f3f7d3d82a43ab62a7abf1cdd71c042b99f227a9b6c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Banking_in_ancient_Rome",
+          "title": "Banking in ancient Rome",
+          "title_slug": "Banking_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "6acdd64523365906cda6db8afdf5ef3ca63dbc8a5d065a5e0b93b2470e26d249"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Age_of_Revolution",
+          "title": "Age of Revolution",
+          "title_slug": "Age_of_Revolution",
+          "domain": "history",
+          "selection_key": "6ec6a1cbd12b9ea0d7372b8b5d86b4f10687b64a6ca025eae77b518465aed801"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Middle_age",
+          "title": "Middle age",
+          "title_slug": "Middle_age",
+          "domain": "history",
+          "selection_key": "7423da29a2d259691d9e21dd8a3ec031c6ac23ae542189dd8bb33e154f14bbbf"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/History_by_country",
+          "title": "History by country",
+          "title_slug": "History_by_country",
+          "domain": "history",
+          "selection_key": "74fa57a845997f9a11acb2b839e8738bfca181eabc386fbdb6ddfa224b1da72c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Aerial_archaeology",
+          "title": "Aerial archaeology",
+          "title_slug": "Aerial_archaeology",
+          "domain": "history",
+          "selection_key": "7a342e07ad6e5017f9509aac4a4ed086256252e89cb0beb0b5f27ac236c6837c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bourgeois_revolution",
+          "title": "Bourgeois revolution",
+          "title_slug": "Bourgeois_revolution",
+          "domain": "history",
+          "selection_key": "7b8e55a7b9b50b72e2b0d367aca585b245ff98a0d7de5f5e8c6f1361a94a03e2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_Journal_of_Modern_History",
+          "title": "The Journal of Modern History",
+          "title_slug": "The_Journal_of_Modern_History",
+          "domain": "history",
+          "selection_key": "7e446ddea980599d7a17b83bcd6a9c7bcd663ae6d27547e3034ec699ced088ed"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/2019_New_England_Revolution_season",
+          "title": "2019 New England Revolution season",
+          "title_slug": "2019_New_England_Revolution_season",
+          "domain": "history",
+          "selection_key": "8122d3f006b79f9bf1948a064a3286797ac1b7fe97984037ef7c82158a9d903e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Music_of_Dance_Dance_Revolution_SuperNova",
+          "title": "Music of Dance Dance Revolution SuperNova",
+          "title_slug": "Music_of_Dance_Dance_Revolution_SuperNova",
+          "domain": "history",
+          "selection_key": "841e15dd7dffd82153f6a0163aa3b10a37c6bc3c89fddbff2c4caf11886e7aba"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Department_of_Archaeology%2C_University_of_Sheffield",
+          "title": "Department of Archaeology, University of Sheffield",
+          "title_slug": "Department_of_Archaeology,_University_of_Sheffield",
+          "domain": "history",
+          "selection_key": "8464295e49a736b60e514dcdea568598b1210dcd52016c43ad7a2fa9fb3bfb6c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Karaoke_Revolution",
+          "title": "Karaoke Revolution",
+          "title_slug": "Karaoke_Revolution",
+          "domain": "history",
+          "selection_key": "87018fdc84d4977c19e7b30dc7d11bbcad584ca26a2c2346ad954c990e5cbac8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Gold_Medal_Award_for_Distinguished_Archaeological_Achievement",
+          "title": "Gold Medal Award for Distinguished Archaeological Achievement",
+          "title_slug": "Gold_Medal_Award_for_Distinguished_Archaeological_Achievement",
+          "domain": "history",
+          "selection_key": "8785c7e2561c08be1a5ceee033c05ebca4e05ec17fed78185d4b18fb7069f4b8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Nonviolent_revolution",
+          "title": "Nonviolent revolution",
+          "title_slug": "Nonviolent_revolution",
+          "domain": "history",
+          "selection_key": "887d06d0d63ebf0541f8bbb0a150dfce238dc967a35029126421216aedc51f9b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Diyarbak%C4%B1r_Archaeological_Museum",
+          "title": "Diyarbakır Archaeological Museum",
+          "title_slug": "Diyarbakır_Archaeological_Museum",
+          "domain": "history",
+          "selection_key": "88fd023a28c9421a68261407aa3f79abc38f82d6070cd4a8b4807f8faf00822d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Revolution",
+          "title": "Revolution",
+          "title_slug": "Revolution",
+          "domain": "history",
+          "selection_key": "8966154f0d671c4d9a9a297dc85f0dbf65e884c228c85d1c29d03baf42257a98"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sanitation_in_ancient_Rome",
+          "title": "Sanitation in ancient Rome",
+          "title_slug": "Sanitation_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "8a87604495aa9280dd0c530aceff62421616157454eea667c78d085ae9ab209c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_Search_for_Ancient_Rome",
+          "title": "The Search for Ancient Rome",
+          "title_slug": "The_Search_for_Ancient_Rome",
+          "domain": "history",
+          "selection_key": "91c87d1fc977583e7145e5157f1db1eb8125cddb17e58b185ae29c9be288a7c2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Patrician_(ancient_Rome)",
+          "title": "Patrician (ancient Rome)",
+          "title_slug": "Patrician_(ancient_Rome)",
+          "domain": "history",
+          "selection_key": "9f4b402cdc2a2bb6beedf4002219a62af48b645d23db63cc2faffa5585bfe12b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Middle_Ages",
+          "title": "Middle Ages",
+          "title_slug": "Middle_Ages",
+          "domain": "history",
+          "selection_key": "a7947ce3d5f95fcf2e772b800ae5e391fbb555d28bf8febcb0b772d94548e4f4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/History_and_Theory",
+          "title": "History and Theory",
+          "title_slug": "History_and_Theory",
+          "domain": "history",
+          "selection_key": "a863b9935ffe96d3e8dba67e390e8e1f6ece6f5ea55cc6ed03d8a0e0c21618c3"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Food_in_ancient_Rome",
+          "title": "Food in ancient Rome",
+          "title_slug": "Food_in_ancient_Rome",
+          "domain": "history",
+          "selection_key": "ab5f8c5ad4c28aa85521e4f5126dffb7c87a1ab31a37b756b6d841ecd354301a"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "history",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "history",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "history",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "history",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "history",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "ancient Rome",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "ancient Rome",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "ancient Rome",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "ancient Rome",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "ancient Rome",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "Middle Ages",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "Middle Ages",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "Middle Ages",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "Middle Ages",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "Middle Ages",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "world war",
+          "start": 0,
+          "count": 3
+        },
+        {
+          "query": "world war",
+          "start": 20,
+          "count": 3
+        },
+        {
+          "query": "world war",
+          "start": 40,
+          "count": 3
+        },
+        {
+          "query": "world war",
+          "start": 60,
+          "count": 3
+        },
+        {
+          "query": "world war",
+          "start": 80,
+          "count": 3
+        },
+        {
+          "query": "revolution",
+          "start": 0,
+          "count": 17
+        },
+        {
+          "query": "revolution",
+          "start": 20,
+          "count": 17
+        },
+        {
+          "query": "revolution",
+          "start": 40,
+          "count": 17
+        },
+        {
+          "query": "revolution",
+          "start": 60,
+          "count": 17
+        },
+        {
+          "query": "revolution",
+          "start": 80,
+          "count": 17
+        },
+        {
+          "query": "archaeology",
+          "start": 0,
+          "count": 17
+        },
+        {
+          "query": "archaeology",
+          "start": 20,
+          "count": 17
+        },
+        {
+          "query": "archaeology",
+          "start": 40,
+          "count": 17
+        },
+        {
+          "query": "archaeology",
+          "start": 60,
+          "count": 17
+        },
+        {
+          "query": "archaeology",
+          "start": 80,
+          "count": 17
+        }
+      ]
+    },
+    "social_science": {
+      "queries": [
+        "sociology",
+        "economics",
+        "psychology",
+        "political science",
+        "anthropology",
+        "law"
+      ],
+      "candidates_total": 95,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Schools_of_economic_thought",
+          "title": "Schools of economic thought",
+          "title_slug": "Schools_of_economic_thought",
+          "domain": "social_science",
+          "selection_key": "0069c596ec5f1f4457109081d8a348f9cbec867d70b2f2b231feceaaf50521f5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Psychological_anthropology",
+          "title": "Psychological anthropology",
+          "title_slug": "Psychological_anthropology",
+          "domain": "social_science",
+          "selection_key": "00b798508868078bd03b31f3d2d815b1f9fceadabe194596aa1f1f5aafe0651d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Transpersonal_psychology",
+          "title": "Transpersonal psychology",
+          "title_slug": "Transpersonal_psychology",
+          "domain": "social_science",
+          "selection_key": "025d1f8eabd20c90b33cf59c78b9406e4412937d90bbca6035712acb78136189"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Political_law",
+          "title": "Political law",
+          "title_slug": "Political_law",
+          "domain": "social_science",
+          "selection_key": "037d8ee9a456f21e3a2504e4567de1feec91ce565049069f580f58ddb9692cd5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Formal_theory_(political_science)",
+          "title": "Formal theory (political science)",
+          "title_slug": "Formal_theory_(political_science)",
+          "domain": "social_science",
+          "selection_key": "06bcec85544279821111ed0eeaa8e59bd62de8a4410aa90377719f970e50ea34"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Agricultural_economics",
+          "title": "Agricultural economics",
+          "title_slug": "Agricultural_economics",
+          "domain": "social_science",
+          "selection_key": "08d7edf33f532cb8b2e11362d87164f88a18c1fb7fe0c3bb05313865452906e0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Liberation_psychology",
+          "title": "Liberation psychology",
+          "title_slug": "Liberation_psychology",
+          "domain": "social_science",
+          "selection_key": "092e5f7a3175cce11c5ebfdd6345d6a4d31049ade489e796a94714f5ed9c9f02"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Popular_psychology",
+          "title": "Popular psychology",
+          "title_slug": "Popular_psychology",
+          "domain": "social_science",
+          "selection_key": "189e03bac2851c4abf54934fb8d148aa3b4b29a0738955953b93668cc958eb42"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociology_in_Poland",
+          "title": "Sociology in Poland",
+          "title_slug": "Sociology_in_Poland",
+          "domain": "social_science",
+          "selection_key": "19f92386d4a3f2d0c7817960741747b5bd19e8f99769dde5452cc2b02be43f26"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/History_of_political_science",
+          "title": "History of political science",
+          "title_slug": "History_of_political_science",
+          "domain": "social_science",
+          "selection_key": "1fb82c63a817a6e658fd7d79cc9627d206a1dee4f5cabd5b8f6a7131cb703183"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Medical_psychology",
+          "title": "Medical psychology",
+          "title_slug": "Medical_psychology",
+          "domain": "social_science",
+          "selection_key": "1fc12064d5bf714cff109f9d723c174c691845522aa2ec993eb56f27bc166a75"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Public_law",
+          "title": "Public law",
+          "title_slug": "Public_law",
+          "domain": "social_science",
+          "selection_key": "287c1fdde4c665b593badb81b319278e5ab1de414722f77bf76cad28e7f7ee1c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociology_of_sociology",
+          "title": "Sociology of sociology",
+          "title_slug": "Sociology_of_sociology",
+          "domain": "social_science",
+          "selection_key": "2b66e457de98896ea8226965f67c5354c155646e01f9ff30a97dcec22f7df830"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociology_in_Japan",
+          "title": "Sociology in Japan",
+          "title_slug": "Sociology_in_Japan",
+          "domain": "social_science",
+          "selection_key": "2d11040bbc841137be3b1c42fc2758938ec0e267b1ece683e91bf998090579f4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Faculty_of_Political_Science%2C_Thammasat_University",
+          "title": "Faculty of Political Science, Thammasat University",
+          "title_slug": "Faculty_of_Political_Science,_Thammasat_University",
+          "domain": "social_science",
+          "selection_key": "2e0ba68362866ea699ab82362ef329fd422f625f86bb84e4be833fb0d9fdaa99"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Applied_anthropology",
+          "title": "Applied anthropology",
+          "title_slug": "Applied_anthropology",
+          "domain": "social_science",
+          "selection_key": "31823b4cd0597f2124722b1420f980ff810ae356e431329251bab1267b4dcb28"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Subfields_of_psychology",
+          "title": "Subfields of psychology",
+          "title_slug": "Subfields_of_psychology",
+          "domain": "social_science",
+          "selection_key": "33f4844798ede82587097af83d375b6290d4e9fa5a4c3f8d61e72c19e5b5571d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Law_in_North_America",
+          "title": "Law in North America",
+          "title_slug": "Law_in_North_America",
+          "domain": "social_science",
+          "selection_key": "358079f3e00b720713d4adc38118b1ba858d1be1e7d9c71c00342d652b8df340"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Medical_anthropology",
+          "title": "Medical anthropology",
+          "title_slug": "Medical_anthropology",
+          "domain": "social_science",
+          "selection_key": "3690b28212f9a0cbabb383a906165bc2f0aa3475ea1a9c1ef117e3ce40037ea8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Positive_law",
+          "title": "Positive law",
+          "title_slug": "Positive_law",
+          "domain": "social_science",
+          "selection_key": "36a9348d288018e45ed6a9d9ccbb02b10c1291f2903eb1d6c622acd59ec1b97c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Caucus_for_a_New_Political_Science",
+          "title": "Caucus for a New Political Science",
+          "title_slug": "Caucus_for_a_New_Political_Science",
+          "domain": "social_science",
+          "selection_key": "380ba476d1de94c4a385758dd73b5a6ae6e260529c2b196f553c5d7ecf1c8b1f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Pluralism_in_economics",
+          "title": "Pluralism in economics",
+          "title_slug": "Pluralism_in_economics",
+          "domain": "social_science",
+          "selection_key": "3a3d7d44e9d04f59fc8483a20c1e0f2bd9e1ce2fe98485d15026f1edc5523957"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Royal_Economic_Society",
+          "title": "Royal Economic Society",
+          "title_slug": "Royal_Economic_Society",
+          "domain": "social_science",
+          "selection_key": "3cbf7701691be899d179f48d7bff6b6e12927e0e213f8cef922d1231f7cc1313"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Faculty_of_Political_Science%2C_Chulalongkorn_University",
+          "title": "Faculty of Political Science, Chulalongkorn University",
+          "title_slug": "Faculty_of_Political_Science,_Chulalongkorn_University",
+          "domain": "social_science",
+          "selection_key": "42f8756d42a15ee5ac56e10af0c0f8c10df2ffaa5b5c947c0fdc149f664d1abe"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bangladesh_Economic_Zones_Authority",
+          "title": "Bangladesh Economic Zones Authority",
+          "title_slug": "Bangladesh_Economic_Zones_Authority",
+          "domain": "social_science",
+          "selection_key": "48cf865fdc1489cc8a169f241029782a54b85e9b7c1e26f8a7df98ab0544c4ad"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociology_in_China",
+          "title": "Sociology in China",
+          "title_slug": "Sociology_in_China",
+          "domain": "social_science",
+          "selection_key": "48f32415480803ece2649f1ab283b3e2f7ed1c1b41384ada9e554a8bd4e2ffbc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Law_and_economics",
+          "title": "Law and economics",
+          "title_slug": "Law_and_economics",
+          "domain": "social_science",
+          "selection_key": "4c256e0d35042bf3620e75e0dfded8d006a96703301b3894c39ebacefcfe3c6c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Pure_sociology",
+          "title": "Pure sociology",
+          "title_slug": "Pure_sociology",
+          "domain": "social_science",
+          "selection_key": "4eefede0398d5769e630e701112ddbfabae74804cefcebf5c535883b741bbb4b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Otto_Suhr_Institute_for_Political_Science",
+          "title": "Otto Suhr Institute for Political Science",
+          "title_slug": "Otto_Suhr_Institute_for_Political_Science",
+          "domain": "social_science",
+          "selection_key": "4ef805ff366c8d8fe7c2c1aaac80027a9cd6ef551bfc1a85dc448c238ed85247"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Positive_and_normative_economics",
+          "title": "Positive and normative economics",
+          "title_slug": "Positive_and_normative_economics",
+          "domain": "social_science",
+          "selection_key": "51134fac8961d74cacdfa469daa434de0b196576f2605fdcf7a0c2d9374e6e7c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Civil_law_(common_law)",
+          "title": "Civil law (common law)",
+          "title_slug": "Civil_law_(common_law)",
+          "domain": "social_science",
+          "selection_key": "51a8b8dac6ceab881ddc56b9a436660938ebc7a60e49a0c997813216f57e64ff"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_economic_law",
+          "title": "International economic law",
+          "title_slug": "International_economic_law",
+          "domain": "social_science",
+          "selection_key": "51ff2d25087b17c6a0cab730db1e069806b82f2fac0ce3f6d6d8be387306fc0f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/De_La_Salle_University_School_of_Economics",
+          "title": "De La Salle University School of Economics",
+          "title_slug": "De_La_Salle_University_School_of_Economics",
+          "domain": "social_science",
+          "selection_key": "5219c9f554be0acdf9c5ecbaf63eddc157ff3c096a7f0f4d974a60e251caaef5"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_psychology",
+          "title": "International psychology",
+          "title_slug": "International_psychology",
+          "domain": "social_science",
+          "selection_key": "527edfc4bfddd2fdd1ba67c0fc375d19fd76476f9c7a7507907ad1a29642eb54"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Economics_education",
+          "title": "Economics education",
+          "title_slug": "Economics_education",
+          "domain": "social_science",
+          "selection_key": "537127bfaebe021f172efc6118b26841a298350cd74ec9e02d96feac5ac57844"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Agricultural_law",
+          "title": "Agricultural law",
+          "title_slug": "Agricultural_law",
+          "domain": "social_science",
+          "selection_key": "575b3b44201c5bb9ea50862a7227152cec0cf12067c54e63858c1ca73b24cdb1"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Comparative_law",
+          "title": "Comparative law",
+          "title_slug": "Comparative_law",
+          "domain": "social_science",
+          "selection_key": "5d2f86c4f64d7b6dda8696a26933c53d8f774faf2b00b58adfffeea30572b858"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Bachelor_of_Economics",
+          "title": "Bachelor of Economics",
+          "title_slug": "Bachelor_of_Economics",
+          "domain": "social_science",
+          "selection_key": "5d8d869e4004d7fb47a92ae1e8ff4116b2a35a60c655ba3b8445d220cb15bd9f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Philosophy_and_economics",
+          "title": "Philosophy and economics",
+          "title_slug": "Philosophy_and_economics",
+          "domain": "social_science",
+          "selection_key": "5f4a631afd14b98201256c2e58062f2c94f9095e56792877cc445347a70f7f22"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_Political_Science_Review",
+          "title": "International Political Science Review",
+          "title_slug": "International_Political_Science_Review",
+          "domain": "social_science",
+          "selection_key": "5fb552ac3a2c4b6b4e19fb09367aeec95b22497a79665d00aca47fca148f6430"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Department_of_Psychology_(Harvard_University)",
+          "title": "Department of Psychology (Harvard University)",
+          "title_slug": "Department_of_Psychology_(Harvard_University)",
+          "domain": "social_science",
+          "selection_key": "63841502eef9b0ed703f34bd21d760ad5e50e740cadd3c0d09110e62fd51680b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Relational_sociology",
+          "title": "Relational sociology",
+          "title_slug": "Relational_sociology",
+          "domain": "social_science",
+          "selection_key": "6553f57dba370cef2fa07c036e21b4bf880743310aaa7503deef75c4d42277f6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Public_anthropology",
+          "title": "Public anthropology",
+          "title_slug": "Public_anthropology",
+          "domain": "social_science",
+          "selection_key": "6d45b5633e63a52b81a4867b943dacdcc5ad520d37f9ee182b6bc01de7269354"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Social_anthropology",
+          "title": "Social anthropology",
+          "title_slug": "Social_anthropology",
+          "domain": "social_science",
+          "selection_key": "6e0812f342e71450ac38b8ab070b329cce50bf5ad43af8438bfc9390e393ea8f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/International_Economic_History_Association",
+          "title": "International Economic History Association",
+          "title_slug": "International_Economic_History_Association",
+          "domain": "social_science",
+          "selection_key": "6e6aa4db03b45ac9f72dc8b2de51a40ee0d5f096cfe635af0a228d927e006a4b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Annual_Review_of_Political_Science",
+          "title": "Annual Review of Political Science",
+          "title_slug": "Annual_Review_of_Political_Science",
+          "domain": "social_science",
+          "selection_key": "7293a0146dd235cddd3ece87cef88f984eea333b790b817ef1e3cbc2b1bb1141"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociology_in_Russia",
+          "title": "Sociology in Russia",
+          "title_slug": "Sociology_in_Russia",
+          "domain": "social_science",
+          "selection_key": "788d3d403d70ef38388a8292ca711d77fa637e666089de7852bc85cb7aa972b8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Sociological_imagination",
+          "title": "Sociological imagination",
+          "title_slug": "Sociological_imagination",
+          "domain": "social_science",
+          "selection_key": "7b187223d20f30fa113247ca3bf241d5c3bb7aa5241eda4f96151f5e03dba8c9"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/American_Political_Science_Review",
+          "title": "American Political Science Review",
+          "title_slug": "American_Political_Science_Review",
+          "domain": "social_science",
+          "selection_key": "7c947fa729ac121c8fea9b136cda99d936416c42382003bed8695646e1cde24f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Educational_anthropology",
+          "title": "Educational anthropology",
+          "title_slug": "Educational_anthropology",
+          "domain": "social_science",
+          "selection_key": "7e2790cc00c3d40181b1c12e22901927cab1a4a4647e063e57b843c5ad53dc1d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Indian_psychology",
+          "title": "Indian psychology",
+          "title_slug": "Indian_psychology",
+          "domain": "social_science",
+          "selection_key": "848c0d8715d40df26ffbf0b981de4604b407a9a3a846a3162f6ccd90ab06ffbd"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/David_Easton",
+          "title": "David Easton",
+          "title_slug": "David_Easton",
+          "domain": "social_science",
+          "selection_key": "858d5fd4947c1cd11d041d91383611ca4e57939eb6befff5bbcf7e03fac93d58"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Basic_science_(psychology)",
+          "title": "Basic science (psychology)",
+          "title_slug": "Basic_science_(psychology)",
+          "domain": "social_science",
+          "selection_key": "87830204b801d9b1c1fad55658f5ea299b108e6aa7ffa0d747bcc82b56bdcfa2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Indigenous_psychology",
+          "title": "Indigenous psychology",
+          "title_slug": "Indigenous_psychology",
+          "domain": "social_science",
+          "selection_key": "87df0e650270e551c4f0a2a407ebe848c00225392ef301251277bd2c3dec981c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/American_politics_(political_science)",
+          "title": "American politics (political science)",
+          "title_slug": "American_politics_(political_science)",
+          "domain": "social_science",
+          "selection_key": "87f47e7dd90bfb7ff12b7a34de89c63f78b232b1d7dfb5ff8ca7cbaa095c41fe"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Heterodox_economics",
+          "title": "Heterodox economics",
+          "title_slug": "Heterodox_economics",
+          "domain": "social_science",
+          "selection_key": "97247c9cd23ee3ebd5b2b8d42f80b5f4425857b0435563e351bcc3fe5a79461f"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "sociology",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "sociology",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "sociology",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "sociology",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "sociology",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "economics",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "economics",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "economics",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "economics",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "economics",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "psychology",
+          "start": 0,
+          "count": 14
+        },
+        {
+          "query": "psychology",
+          "start": 20,
+          "count": 14
+        },
+        {
+          "query": "psychology",
+          "start": 40,
+          "count": 14
+        },
+        {
+          "query": "psychology",
+          "start": 60,
+          "count": 14
+        },
+        {
+          "query": "psychology",
+          "start": 80,
+          "count": 14
+        },
+        {
+          "query": "political science",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "political science",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "political science",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "political science",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "political science",
+          "start": 80,
+          "count": 18
+        },
+        {
+          "query": "anthropology",
+          "start": 0,
+          "count": 17
+        },
+        {
+          "query": "anthropology",
+          "start": 20,
+          "count": 17
+        },
+        {
+          "query": "anthropology",
+          "start": 40,
+          "count": 17
+        },
+        {
+          "query": "anthropology",
+          "start": 60,
+          "count": 17
+        },
+        {
+          "query": "anthropology",
+          "start": 80,
+          "count": 17
+        },
+        {
+          "query": "law",
+          "start": 0,
+          "count": 14
+        },
+        {
+          "query": "law",
+          "start": 20,
+          "count": 14
+        },
+        {
+          "query": "law",
+          "start": 40,
+          "count": 14
+        },
+        {
+          "query": "law",
+          "start": 60,
+          "count": 14
+        },
+        {
+          "query": "law",
+          "start": 80,
+          "count": 14
+        }
+      ]
+    },
+    "arts_humanities": {
+      "queries": [
+        "art",
+        "music",
+        "literature",
+        "philosophy",
+        "painting",
+        "poetry"
+      ],
+      "candidates_total": 82,
+      "chosen": [
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Plays_with_incidental_music",
+          "title": "Plays with incidental music",
+          "title_slug": "Plays_with_incidental_music",
+          "domain": "arts_humanities",
+          "selection_key": "00dc49ff917d2db73bc1a7b184bbf97c6a187bc4e26b5f580665f0ce72cc38e8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ruth_Lilly_Poetry_Prize",
+          "title": "Ruth Lilly Poetry Prize",
+          "title_slug": "Ruth_Lilly_Poetry_Prize",
+          "domain": "arts_humanities",
+          "selection_key": "02ff625196cc6032dd2d66a5b87e847b2c1b901c4299308e16ca5430d11c36a7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Struga_Poetry_Evenings",
+          "title": "Struga Poetry Evenings",
+          "title_slug": "Struga_Poetry_Evenings",
+          "domain": "arts_humanities",
+          "selection_key": "05174e37ff3c70c6de151feb12026eb7d804bf5929fb4a848ab635d23299c8c4"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Collection_of_the_National_Gallery",
+          "title": "Collection of the National Gallery",
+          "title_slug": "Collection_of_the_National_Gallery",
+          "domain": "arts_humanities",
+          "selection_key": "0a2dba2f6cb586ac7e82f163fe9c2545764abf6fd26dabe719a3ba5400cc317c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Women_in_the_art_history_field",
+          "title": "Women in the art history field",
+          "title_slug": "Women_in_the_art_history_field",
+          "domain": "arts_humanities",
+          "selection_key": "0ddff4e3b5b55b0cf0d1011acae6deea9a7ab372aba3a47bfa24da9601feaa09"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Golden_Reel_Award_for_Outstanding_Achievement_in_Sound_Editing_%E2%80%93_Music_Score_and_Musical_for_Episodic_Short_Form_Broadcast_Media",
+          "title": "Golden Reel Award for Outstanding Achievement in Sound Editing – Music Score and Musical for Episodic Short Form Broadcast Media",
+          "title_slug": "Golden_Reel_Award_for_Outstanding_Achievement_in_Sound_Editing_–_Music_Score_and_Musical_for_Episodic_Short_Form_Broadcast_Media",
+          "domain": "arts_humanities",
+          "selection_key": "119ed2a6b54fb7b1938b496e7664996439642743649bccf6bdc9d176df18a072"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Contemporary_philosophy",
+          "title": "Contemporary philosophy",
+          "title_slug": "Contemporary_philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "15dc2e4c3aee4d664b693176389d708fd56d9325759ce101b09fc33cc338dd10"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Painting",
+          "title": "Painting",
+          "title_slug": "Painting",
+          "domain": "arts_humanities",
+          "selection_key": "199712d5a943f58315334772ac7daed19d276a771f0c1fea45a0e46a8da72d96"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Federation_of_State_Poetry_Societies",
+          "title": "National Federation of State Poetry Societies",
+          "title_slug": "National_Federation_of_State_Poetry_Societies",
+          "domain": "arts_humanities",
+          "selection_key": "1a2caf8ea4e404ec511805c75a446b3b078b9fc46e455a718f47c4487f080a4c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Classical_Chinese_poetry",
+          "title": "Classical Chinese poetry",
+          "title_slug": "Classical_Chinese_poetry",
+          "domain": "arts_humanities",
+          "selection_key": "1d410f26e8f4e5832673e27db6dad7ee53238a3d841e907788af52e6829621a6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Poetry_Month",
+          "title": "National Poetry Month",
+          "title_slug": "National_Poetry_Month",
+          "domain": "arts_humanities",
+          "selection_key": "1f1881054bddd2b5ea98923b4ebb979f964d3c7ef4f4b28c2eb6ea88ba59abeb"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Artist_(Thailand)",
+          "title": "National Artist (Thailand)",
+          "title_slug": "National_Artist_(Thailand)",
+          "domain": "arts_humanities",
+          "selection_key": "24d6dade7cf2a08f4f14431ab32854641717e62e826506fba3994ba12c8c0ea2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Music_award",
+          "title": "Music award",
+          "title_slug": "Music_award",
+          "domain": "arts_humanities",
+          "selection_key": "333861001549548a4da5a233a8230d6b4d991c01e27c29d19faebf7e98d4e884"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Jonathan_Beard",
+          "title": "Jonathan Beard",
+          "title_slug": "Jonathan_Beard",
+          "domain": "arts_humanities",
+          "selection_key": "36ccc67cf8f7c98e7028dcd6106d776be07f005a2097c44aa83526127126e93e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Western_Canadian_Music_Awards",
+          "title": "Western Canadian Music Awards",
+          "title_slug": "Western_Canadian_Music_Awards",
+          "domain": "arts_humanities",
+          "selection_key": "3821e86bb8a2c281db79ace3640eb9c50cd55864eb0d6011a4cecdc7f499e120"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/The_Harvard_Review_of_Philosophy",
+          "title": "The Harvard Review of Philosophy",
+          "title_slug": "The_Harvard_Review_of_Philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "3d6725c820d29a4c5108149eeb800d00656ed7e77ffbffeaa03e5e50538a9345"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/2022_in_poetry",
+          "title": "2022 in poetry",
+          "title_slug": "2022_in_poetry",
+          "domain": "arts_humanities",
+          "selection_key": "414aee610d13012d633930dbf08a6370a77ca5fdd1b34eed495744c687e4bb10"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/World_literature",
+          "title": "World literature",
+          "title_slug": "World_literature",
+          "domain": "arts_humanities",
+          "selection_key": "434c62c6acbbc787b725d5b6486a86e3d955bb91b60a0d42a27aa7551a6d0b76"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Da_Poetry_Lounge",
+          "title": "Da Poetry Lounge",
+          "title_slug": "Da_Poetry_Lounge",
+          "domain": "arts_humanities",
+          "selection_key": "43578c8d02f8db57dcf7e1f99b4c6b73bda0c7f56c73748d539a1cc98fa9ffbc"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Acrylic_painting_techniques",
+          "title": "Acrylic painting techniques",
+          "title_slug": "Acrylic_painting_techniques",
+          "domain": "arts_humanities",
+          "selection_key": "4900410ec4b13f4ed9843810ab58aae1cd0df222312c0976bbf5cbc74f63ff89"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Philosophy_for_Children",
+          "title": "Philosophy for Children",
+          "title_slug": "Philosophy_for_Children",
+          "domain": "arts_humanities",
+          "selection_key": "4be470deb6f175dd05ad3799de29ba3eb75cd26beedc5b7f7f5e074a0dfcda19"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Thanjavur_painting",
+          "title": "Thanjavur painting",
+          "title_slug": "Thanjavur_painting",
+          "domain": "arts_humanities",
+          "selection_key": "4c39cc341b832979e717eb4e1c4a06625454841545e142f699788d77aa0d9d27"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Comparative_literature",
+          "title": "Comparative literature",
+          "title_slug": "Comparative_literature",
+          "domain": "arts_humanities",
+          "selection_key": "52cac298fcfd2913cec49dfbebdf3fed5238d163398c515e9dbc4b64dabe5319"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Universities_and_Colleges_Selection_Examination",
+          "title": "Universities and Colleges Selection Examination",
+          "title_slug": "Universities_and_Colleges_Selection_Examination",
+          "domain": "arts_humanities",
+          "selection_key": "5334a349b025a9ff03740c5fa2c32d4e04770db13e065c7c935dcdd6c9ff3e64"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Roy_Webb_filmography",
+          "title": "Roy Webb filmography",
+          "title_slug": "Roy_Webb_filmography",
+          "domain": "arts_humanities",
+          "selection_key": "53d8627994d50d67ad9e83944eba5326da6891396944c4ba3c66a9f41a09fd6f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Definitions_of_philosophy",
+          "title": "Definitions of philosophy",
+          "title_slug": "Definitions_of_philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "53e8fff84c347d41555d39819d7e7edb797f9200935ce30feb05e52c03f3b59e"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Continental_philosophy",
+          "title": "Continental philosophy",
+          "title_slug": "Continental_philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "5722f14554597ded57c61a3dbf92cf4c53470965f0adcd20c77d9ee6c75635a6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3ALiterature/Biography_archive/2008_archive",
+          "title": "2008 archive",
+          "title_slug": "2008_archive",
+          "domain": "arts_humanities",
+          "selection_key": "5872fac2f752a28ada183f331163b3e6e5a0f2d5fb6fba6136260155731e4c25"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Non-philosophy",
+          "title": "Non-philosophy",
+          "title_slug": "Non-philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "5a8d3fdff70edd100b83a79f3690d110a81b0c5c840cf7cdc8572f5b49121064"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Chinese_poetry",
+          "title": "Chinese poetry",
+          "title_slug": "Chinese_poetry",
+          "domain": "arts_humanities",
+          "selection_key": "5c83e7d646529f065fd62611f2d27c02f4f3abb2a12bf49b388e9eaec66460ad"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Arts_centre",
+          "title": "Arts centre",
+          "title_slug": "Arts_centre",
+          "domain": "arts_humanities",
+          "selection_key": "5f0be786f1017f2c1bd16875af71f8eb9535c9e40dc24e7ca8b3788789184b4b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Paint_recycling",
+          "title": "Paint recycling",
+          "title_slug": "Paint_recycling",
+          "domain": "arts_humanities",
+          "selection_key": "60a221a96dbb224f84d2c1e297151f8f6ea1aca255785a4249b3391f79d1570c"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Contemporary_art",
+          "title": "Contemporary art",
+          "title_slug": "Contemporary_art",
+          "domain": "arts_humanities",
+          "selection_key": "63bb3c7694b2a0e12cfd2615a0c5e3abed4bfe647f30c118aa02e144f799bb45"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Golden_Reel_Award_for_Outstanding_Achievement_in_Sound_Editing_%E2%80%93_Music_Score_and_Musical_for_Episodic_Long_Form_Broadcast_Media",
+          "title": "Golden Reel Award for Outstanding Achievement in Sound Editing – Music Score and Musical for Episodic Long Form Broadcast Media",
+          "title_slug": "Golden_Reel_Award_for_Outstanding_Achievement_in_Sound_Editing_–_Music_Score_and_Musical_for_Episodic_Long_Form_Broadcast_Media",
+          "domain": "arts_humanities",
+          "selection_key": "6c4156404799e46bed824df0535019e2f2df2a79a71cedfd60ffc8e737a8d34a"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Scandinavian_literature",
+          "title": "Scandinavian literature",
+          "title_slug": "Scandinavian_literature",
+          "domain": "arts_humanities",
+          "selection_key": "6e5c3f5d5bb56bf441073ae34e26f0a935162191e434b771c2e63c9bbfd280d6"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Acrylic_paint",
+          "title": "Acrylic paint",
+          "title_slug": "Acrylic_paint",
+          "domain": "arts_humanities",
+          "selection_key": "700ef6eefbe06cf55da1a1d0279ff9ecc5f79c2339219dae8954ac0111085815"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Classical_Chinese_poetry_genres",
+          "title": "Classical Chinese poetry genres",
+          "title_slug": "Classical_Chinese_poetry_genres",
+          "domain": "arts_humanities",
+          "selection_key": "72a6e5ca5fc4d0a60c5fca4bcd9665713b695bdad1ff0610002d93ba40793640"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Periods_in_Western_art_history",
+          "title": "Periods in Western art history",
+          "title_slug": "Periods_in_Western_art_history",
+          "domain": "arts_humanities",
+          "selection_key": "72cb37c2796aa9617ff757ab503f0457c419e9eeab5c07b0dc5aa3abca40f170"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Art_(given_name)",
+          "title": "Art (given name)",
+          "title_slug": "Art_(given_name)",
+          "domain": "arts_humanities",
+          "selection_key": "7a0d25132602f9fa3faddd884ed52b19d3a2ebd92a471e63bf1a5a8d12ad6930"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Oceanian_literature",
+          "title": "Oceanian literature",
+          "title_slug": "Oceanian_literature",
+          "domain": "arts_humanities",
+          "selection_key": "7c7c2dffedf68fd3219c937a7000f43431105f49e78fec6c3545e4f95ab23225"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Iranian_philosophy",
+          "title": "Iranian philosophy",
+          "title_slug": "Iranian_philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "7cab25df063708cb216da1b28c1f9ed271916513bddff4c41b2be0ae968f575d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/National_Poetry_Slam",
+          "title": "National Poetry Slam",
+          "title_slug": "National_Poetry_Slam",
+          "domain": "arts_humanities",
+          "selection_key": "7e8e9f3f4df527df18d1b7918135f9fe9e335cd83b4c99bb25c22f1b20f69f6d"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Paint",
+          "title": "Paint",
+          "title_slug": "Paint",
+          "domain": "arts_humanities",
+          "selection_key": "81cea722f53167cce322e7a3f8bb121493ee44d1708d5c4343edd2c7d740bcb0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Catalogue_of_paintings_in_the_National_Gallery",
+          "title": "Catalogue of paintings in the National Gallery",
+          "title_slug": "Catalogue_of_paintings_in_the_National_Gallery",
+          "domain": "arts_humanities",
+          "selection_key": "822317f6e151277c9df68a3c81cb267d78be2e4ae4432efd53c91e69c99385b7"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Women_Painting_Women",
+          "title": "Women Painting Women",
+          "title_slug": "Women_Painting_Women",
+          "domain": "arts_humanities",
+          "selection_key": "82a795fe81fea0cfb181b4466905c097d86834d0a5cfedafff3edde3bca15e7f"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Ancient_Philosophy_(journal)",
+          "title": "Ancient Philosophy (journal)",
+          "title_slug": "Ancient_Philosophy_(journal)",
+          "domain": "arts_humanities",
+          "selection_key": "842ef7af0e02113ee2c8bbc9707556c5e0ba34a242b071f96467f139fc6eb8b0"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Canadian_Folk_Music_Awards",
+          "title": "Canadian Folk Music Awards",
+          "title_slug": "Canadian_Folk_Music_Awards",
+          "domain": "arts_humanities",
+          "selection_key": "871717887eb132d3cc695809bd4e0f2b16511540f7223f7513bc09a87123b928"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Indian_literature",
+          "title": "Indian literature",
+          "title_slug": "Indian_literature",
+          "domain": "arts_humanities",
+          "selection_key": "88b319a02ad877e15d2c25267e5d1a7e11174b71474735155628e8d9f6e928a8"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/New_Music_Awards",
+          "title": "New Music Awards",
+          "title_slug": "New_Music_Awards",
+          "domain": "arts_humanities",
+          "selection_key": "89e9a965b975ce616fd5561b696d9746a943abc9510367b31f8c3a5c0f663034"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Canadian_Independent_Music_Awards",
+          "title": "Canadian Independent Music Awards",
+          "title_slug": "Canadian_Independent_Music_Awards",
+          "domain": "arts_humanities",
+          "selection_key": "8b3c1e6215197085d23b61349ba6d15a1ce1dce2cb315344c64d2fef4fdf68e2"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Historiography_of_Chinese_philosophy",
+          "title": "Historiography of Chinese philosophy",
+          "title_slug": "Historiography_of_Chinese_philosophy",
+          "domain": "arts_humanities",
+          "selection_key": "8f0f00aa88392e73ba62d1b697aad6adeb95a9a012556481a6f43644620225eb"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Conservation_and_restoration_of_paintings",
+          "title": "Conservation and restoration of paintings",
+          "title_slug": "Conservation_and_restoration_of_paintings",
+          "domain": "arts_humanities",
+          "selection_key": "8ff5ef40d75e563321bae8f128e07510a38a6b5f1fcf1b7057ad9ae7a41eea2b"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Asian_literature",
+          "title": "Asian literature",
+          "title_slug": "Asian_literature",
+          "domain": "arts_humanities",
+          "selection_key": "9c2675d36cac25d6be23039856b3eb7ed4b6b9b47ff343275453a11e27db8a32"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Poetry_Foundation",
+          "title": "Poetry Foundation",
+          "title_slug": "Poetry_Foundation",
+          "domain": "arts_humanities",
+          "selection_key": "9ce2be5fb332ecc112afeb867eca2a20c96a77f0879f0b701b31dbbeacc6f554"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Poetry_slam",
+          "title": "Poetry slam",
+          "title_slug": "Poetry_slam",
+          "domain": "arts_humanities",
+          "selection_key": "9d8fe2bf2b59006774279be57069c733ebf14834cec3b7c8971e5a8ebf514f47"
+        },
+        {
+          "href": "/content/wikipedia_en_all_nopic_2026-06/Portal%3APoetry/poem_archive",
+          "title": "poem archive",
+          "title_slug": "poem_archive",
+          "domain": "arts_humanities",
+          "selection_key": "9ecbc18b05b5096f0572e88ee16615d19837679d2ac9f4827bf48b8970832ea4"
+        }
+      ],
+      "query_log": [
+        {
+          "query": "art",
+          "start": 0,
+          "count": 9
+        },
+        {
+          "query": "art",
+          "start": 20,
+          "count": 9
+        },
+        {
+          "query": "art",
+          "start": 40,
+          "count": 9
+        },
+        {
+          "query": "art",
+          "start": 60,
+          "count": 9
+        },
+        {
+          "query": "art",
+          "start": 80,
+          "count": 9
+        },
+        {
+          "query": "music",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "music",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "music",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "music",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "music",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "literature",
+          "start": 0,
+          "count": 14
+        },
+        {
+          "query": "literature",
+          "start": 20,
+          "count": 14
+        },
+        {
+          "query": "literature",
+          "start": 40,
+          "count": 14
+        },
+        {
+          "query": "literature",
+          "start": 60,
+          "count": 14
+        },
+        {
+          "query": "literature",
+          "start": 80,
+          "count": 14
+        },
+        {
+          "query": "philosophy",
+          "start": 0,
+          "count": 16
+        },
+        {
+          "query": "philosophy",
+          "start": 20,
+          "count": 16
+        },
+        {
+          "query": "philosophy",
+          "start": 40,
+          "count": 16
+        },
+        {
+          "query": "philosophy",
+          "start": 60,
+          "count": 16
+        },
+        {
+          "query": "philosophy",
+          "start": 80,
+          "count": 16
+        },
+        {
+          "query": "painting",
+          "start": 0,
+          "count": 13
+        },
+        {
+          "query": "painting",
+          "start": 20,
+          "count": 13
+        },
+        {
+          "query": "painting",
+          "start": 40,
+          "count": 13
+        },
+        {
+          "query": "painting",
+          "start": 60,
+          "count": 13
+        },
+        {
+          "query": "painting",
+          "start": 80,
+          "count": 13
+        },
+        {
+          "query": "poetry",
+          "start": 0,
+          "count": 18
+        },
+        {
+          "query": "poetry",
+          "start": 20,
+          "count": 18
+        },
+        {
+          "query": "poetry",
+          "start": 40,
+          "count": 18
+        },
+        {
+          "query": "poetry",
+          "start": 60,
+          "count": 18
+        },
+        {
+          "query": "poetry",
+          "start": 80,
+          "count": 18
+        }
+      ]
+    }
+  },
+  "limits": {
+    "index_per_domain": 50,
+    "extra_per_domain": 6
+  },
+  "selection_note": "Search-result coverage sample, not a uniform Wikipedia sample."
+}

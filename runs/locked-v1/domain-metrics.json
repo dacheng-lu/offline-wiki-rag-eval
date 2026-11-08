@@ -1,0 +1,232 @@
+{
+  "base": {
+    "arts_humanities": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.488
+    },
+    "chemistry_materials": {
+      "n": 23,
+      "answerable_n": 20,
+      "unanswerable_n": 3,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.05,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.696
+    },
+    "geography_environment": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.057
+    },
+    "history": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.302
+    },
+    "life_medicine": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 2.079
+    },
+    "mathematics": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.244
+    },
+    "physics_astronomy": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.543
+    },
+    "social_science": {
+      "n": 23,
+      "answerable_n": 20,
+      "unanswerable_n": 3,
+      "answer_ok": 0.0,
+      "answerable_answer_ok": 0.0,
+      "exact": 0.0,
+      "citation_ok": 0.0,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 1.327
+    }
+  },
+  "embed": {
+    "arts_humanities": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.36,
+      "answerable_answer_ok": 0.45,
+      "exact": 0.45,
+      "citation_ok": 0.6,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 5.234
+    },
+    "chemistry_materials": {
+      "n": 23,
+      "answerable_n": 20,
+      "unanswerable_n": 3,
+      "answer_ok": 0.2609,
+      "answerable_answer_ok": 0.3,
+      "exact": 0.45,
+      "citation_ok": 0.6,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 4.791
+    },
+    "geography_environment": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.2917,
+      "answerable_answer_ok": 0.35,
+      "exact": 0.5,
+      "citation_ok": 0.5,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 4.262
+    },
+    "history": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.1667,
+      "answerable_answer_ok": 0.2,
+      "exact": 0.2,
+      "citation_ok": 0.5,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 5.582
+    },
+    "life_medicine": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.08,
+      "answerable_answer_ok": 0.1,
+      "exact": 0.15,
+      "citation_ok": 0.35,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 5.105
+    },
+    "mathematics": {
+      "n": 24,
+      "answerable_n": 20,
+      "unanswerable_n": 4,
+      "answer_ok": 0.125,
+      "answerable_answer_ok": 0.15,
+      "exact": 0.15,
+      "citation_ok": 0.6,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 3.247
+    },
+    "physics_astronomy": {
+      "n": 25,
+      "answerable_n": 20,
+      "unanswerable_n": 5,
+      "answer_ok": 0.12,
+      "answerable_answer_ok": 0.15,
+      "exact": 0.2,
+      "citation_ok": 0.3,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 4.496
+    },
+    "social_science": {
+      "n": 23,
+      "answerable_n": 20,
+      "unanswerable_n": 3,
+      "answer_ok": 0.1304,
+      "answerable_answer_ok": 0.15,
+      "exact": 0.25,
+      "citation_ok": 0.35,
+      "abstention_ok": 0.0,
+      "mean_latency_s": 4.932
+    }
+  },
+  "retrieval": {
+    "arts_humanities": {
+      "n": 25,
+      "article_hit": 0.6,
+      "evidence_hit": 0.48,
+      "mrr": 0.4133
+    },
+    "chemistry_materials": {
+      "n": 23,
+      "article_hit": 0.7391,
+      "evidence_hit": 0.6087,
+      "mrr": 0.5232
+    },
+    "geography_environment": {
+      "n": 24,
+      "article_hit": 0.75,
+      "evidence_hit": 0.6667,
+      "mrr": 0.5972
+    },
+    "history": {
+      "n": 24,
+      "article_hit": 0.7083,
+      "evidence_hit": 0.5,
+      "mrr": 0.4285
+    },
+    "life_medicine": {
+      "n": 25,
+      "article_hit": 0.68,
+      "evidence_hit": 0.4,
+      "mrr": 0.3533
+    },
+    "mathematics": {
+      "n": 24,
+      "article_hit": 0.75,
+      "evidence_hit": 0.5417,
+      "mrr": 0.4201
+    },
+    "physics_astronomy": {
+      "n": 25,
+      "article_hit": 0.76,
+      "evidence_hit": 0.52,
+      "mrr": 0.386
+    },
+    "social_science": {
+      "n": 23,
+      "article_hit": 0.5652,
+      "evidence_hit": 0.3913,
+      "mrr": 0.3333
+    }
+  }
+}

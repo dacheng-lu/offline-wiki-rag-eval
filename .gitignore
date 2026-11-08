@@ -1,0 +1,6 @@
+raw/
+text/
+index/
+runs/smoke*/
+__pycache__/
+*.pyc
